@@ -96,8 +96,6 @@ const main = async () => {
     console.log("Saved to file!");
 }
 
-main();
-
 const generateTopTags = async () => {
     const tracksDataPath = resolve(process.cwd(), "tracks_data.json");
 
@@ -123,8 +121,14 @@ const generateTopTags = async () => {
     await writeFile(resolve(process.cwd(), "top_tags.json"), format(sortedAllTags), "utf-8");
 }
 
-const auxMethod = process.argv[2];
+const init = async () => {
+    await main();
 
-if (auxMethod == "generateTopTags") {
-    generateTopTags();
+    const auxMethod = process.argv[2];
+
+    if (auxMethod == "generateTopTags") {
+        await generateTopTags();
+    }
 }
+
+init();
