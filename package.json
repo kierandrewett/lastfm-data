@@ -1,0 +1,17 @@
+{
+  "name": "last-fm-tag-collator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "esbuild --platform=node --bundle src/main.ts --outfile=dist/main.js && node dist/main.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.2",
+    "esbuild": "^0.21.5"
+  }
+}
