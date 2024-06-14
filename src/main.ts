@@ -34,7 +34,14 @@ const getTrackTags = async (track: string, artist: string): Promise<string[]> =>
 
     const data = res.data.toptags;
 
-    return data ? Array.from(new Set(data.tag.filter(tag => tag.count > 3).filter(tag => tag.name.length < 15).filter(tag => /^[a-zA-Z- ]+$/.test(tag.name)).sort((a, b) => b.count - a.count).map(tag => [tag.count, tag.name.toLowerCase()]))) : [];
+    return data ? Array.from(new Set(data.tag
+        .filter(tag => tag.count > 3)
+        .filter(tag => tag.name.length < 15)
+        .filter(tag => tag.name.length >= 3)
+        .filter(tag => /^[a-zA-Z- ]+$/.test(tag.name))
+        .sort((a, b) => b.count - a.count)
+        .map(tag => [tag.count, tag.name.trim().toLowerCase()])
+    )) : [];
 }
 
 const getAllTopTracks = async (page = 1, tracks = [], totalPages = 1): Promise<any[]> => {
@@ -100,7 +107,7 @@ const generateTopTags = async () => {
     let allTags = {};
 
     for (const track of tracksData) {
-        const [tags] = track;
+        const [name, artist, imageURL, playCount, tags] = track;
 
         for (const [score, tag] of tags) {
             if (!allTags[tag]) allTags[tag] = 0;
@@ -109,11 +116,15 @@ const generateTopTags = async () => {
         }
     }
 
-    await writeFile(resolve(process.cwd(), "top_tags.json"), format(allTags), "utf-8");
+    const sortedAllTags = Object.fromEntries(
+        Object.entries(allTags).sort(([_a,a],[_b,b]) => (b as number) - (a as number))
+    );
+
+    await writeFile(resolve(process.cwd(), "top_tags.json"), format(sortedAllTags), "utf-8");
 }
 
 const auxMethod = process.argv[2];
 
-if (auxMethod in globalThis && typeof globalThis[auxMethod] == "function") {
-    (globalThis as any)[auxMethod]();
+if (auxMethod == "generateTopTags") {
+    generateTopTags();
 }
