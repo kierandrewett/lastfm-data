@@ -119,10 +119,14 @@ const generateTopTags = async () => {
     );
 
     await writeFile(resolve(process.cwd(), "top_tags.json"), format(sortedAllTags), "utf-8");
+
+    await writeFile(resolve(process.cwd(), "top_10_tags.json"), format(Object.keys(sortedAllTags).slice(0, 10)), "utf-8");
+    await writeFile(resolve(process.cwd(), "top_50_tags.json"), format(Object.keys(sortedAllTags).slice(0, 50)), "utf-8");
+    await writeFile(resolve(process.cwd(), "top_250_tags.json"), format(Object.keys(sortedAllTags).slice(0, 250)), "utf-8");
 }
 
 const init = async () => {
-    await main();
+    // await main();
 
     const auxMethod = process.argv[2];
 
