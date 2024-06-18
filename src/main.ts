@@ -125,8 +125,6 @@ const generateTopTags = async (file_prefix: string, tracksData: any[]) => {
         }
     }
 
-    console.log(allTags);
-
     const sortedAllTags = Object.fromEntries(
         Object.entries(allTags).sort(([_a,a],[_b,b]) => (b as number) - (a as number))
     );
