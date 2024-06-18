@@ -1,16 +1,17 @@
-import axios from "axios";
+import axios, { all } from "axios";
 import { config } from "dotenv";
 import { readFile, writeFile } from "fs/promises";
 import { resolve } from "path";
 
 config();
 
-const getTopTracks = async (page = 1) => {
+const getTopTracks = async (page = 1, period?: string) => {
     const getTopTracks = new URL("https://ws.audioscrobbler.com/2.0/?method=user.gettoptracks&format=json");
     getTopTracks.searchParams.set("user", process.env.LASTFM_API_USERNAME as any);
     getTopTracks.searchParams.set("api_key", process.env.LASTFM_API_KEY as any);
     getTopTracks.searchParams.set("limit", "1000");
     getTopTracks.searchParams.set("page", page.toString());
+    if (period) getTopTracks.searchParams.set("period", period.toString());
 
     const res = await axios.get(getTopTracks.href);
 
@@ -59,13 +60,26 @@ const getAllTopTracks = async (page = 1, tracks = [], totalPages = 1): Promise<a
     return getAllTopTracks((+result.page) + 1, tracks, result.totalPages);
 }
 
+const getTopTracksForPeriod = async (period: string, page = 1, tracks = [], totalPages = 1): Promise<any[]> => {
+    if (page > totalPages) return tracks;
+
+    const result = await getTopTracks(page, period);
+    tracks = tracks.concat(result.data);
+
+    await new Promise((r) => setTimeout(() => {
+        r(1);
+    }, 250));
+
+    console.log(`${page}/${totalPages}: Getting next 1000 tracks for ${period} period (total ${tracks.length})`);
+
+    return getTopTracksForPeriod(period, (+result.page) + 1, tracks, result.totalPages);
+}
+
 const format = (data: object) => {
     return JSON.stringify(data, null, 4)
 }
 
-const main = async () => {
-    const tracks = await getAllTopTracks();
-
+const writeTracksToFile = async (file_name: string, tracks: any[]) => {
     const taggedTracks: [string, string, string, number, string[]][] = [];
 
     let trackI = 0;
@@ -88,20 +102,17 @@ const main = async () => {
 
         await new Promise((r) => setTimeout(() => {
             r(1);
-        }, 250));
+        }, 50));
 
-        await writeFile(resolve(process.cwd(), "tracks_data.json"), format(taggedTracks), "utf-8");
+        await writeFile(resolve(process.cwd(), `${file_name}.json`), format(taggedTracks), "utf-8");
     }
 
     console.log("Saved to file!");
+
+    return taggedTracks;
 }
 
-const generateTopTags = async () => {
-    const tracksDataPath = resolve(process.cwd(), "tracks_data.json");
-
-    const tracksDataRaw = await readFile(tracksDataPath, "utf-8");
-    const tracksData = JSON.parse(tracksDataRaw);
-
+const generateTopTags = async (file_prefix: string, tracksData: any[]) => {
     let allTags = {};
 
     for (const track of tracksData) {
@@ -114,25 +125,28 @@ const generateTopTags = async () => {
         }
     }
 
+    console.log(allTags);
+
     const sortedAllTags = Object.fromEntries(
         Object.entries(allTags).sort(([_a,a],[_b,b]) => (b as number) - (a as number))
     );
 
-    await writeFile(resolve(process.cwd(), "top_tags.json"), format(sortedAllTags), "utf-8");
+    await writeFile(resolve(process.cwd(), `${file_prefix}_tags.json`), format(sortedAllTags), "utf-8");
 
-    await writeFile(resolve(process.cwd(), "top_10_tags.json"), format(Object.keys(sortedAllTags).slice(0, 10)), "utf-8");
-    await writeFile(resolve(process.cwd(), "top_50_tags.json"), format(Object.keys(sortedAllTags).slice(0, 50)), "utf-8");
-    await writeFile(resolve(process.cwd(), "top_250_tags.json"), format(Object.keys(sortedAllTags).slice(0, 250)), "utf-8");
+    await writeFile(resolve(process.cwd(), `${file_prefix}_10_tags.json`), format(Object.keys(sortedAllTags).slice(0, 10)), "utf-8");
+    await writeFile(resolve(process.cwd(), `${file_prefix}_50_tags.json`), format(Object.keys(sortedAllTags).slice(0, 50)), "utf-8");
+    await writeFile(resolve(process.cwd(), `${file_prefix}_250_tags.json`), format(Object.keys(sortedAllTags).slice(0, 250)), "utf-8");
 }
 
-const init = async () => {
-    // await main();
+const main = async () => {
+    const monthTracks = await getTopTracksForPeriod("1month");
+    const monthAllTracks = await writeTracksToFile("month_tracks_data", monthTracks);
 
-    const auxMethod = process.argv[2];
+    const weekTracks = await getTopTracksForPeriod("7day");
+    const weekAllTracks = await writeTracksToFile("week_tracks_data", weekTracks);
 
-    if (auxMethod == "generateTopTags") {
-        await generateTopTags();
-    }
+    await generateTopTags("month", monthAllTracks);
+    await generateTopTags("week", weekAllTracks);
 }
 
-init();
+main();
