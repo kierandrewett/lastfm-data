@@ -1,5 +1,12 @@
 [
     [
+        "Flow",
+        "Crazy Cousinz",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        5,
+        []
+    ],
+    [
         "Heartbeat (Chase & Status We Just Bought a Guitar Mix)",
         "Nneka",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -100,6 +107,13 @@
         ]
     ],
     [
+        "Love FM",
+        "Pat Lok",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        5,
+        []
+    ],
+    [
         "Warrior (feat. SG Lewis)",
         "Aluna",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -107,31 +121,82 @@
         []
     ],
     [
-        "Flow",
-        "Crazy Cousinz",
+        "Bet",
+        "Mark Laird",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        2,
-        []
-    ],
-    [
-        "Love FM",
-        "Pat Lok",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        2,
-        []
+        3,
+        [
+            [
+                100,
+                "electronic"
+            ],
+            [
+                100,
+                "techno"
+            ],
+            [
+                100,
+                "house"
+            ],
+            [
+                100,
+                "breakbeat"
+            ],
+            [
+                100,
+                "ghetto house"
+            ]
+        ]
     ],
     [
         "Burning",
-        "Seth Hills & Levex",
+        "Seth Hills",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        2,
-        []
+        3,
+        [
+            [
+                100,
+                "house"
+            ],
+            [
+                100,
+                "electro house"
+            ],
+            [
+                100,
+                "club"
+            ],
+            [
+                100,
+                "fidget house"
+            ],
+            [
+                100,
+                "edm"
+            ],
+            [
+                100,
+                "festival"
+            ],
+            [
+                100,
+                "complextro"
+            ],
+            [
+                100,
+                "bass house"
+            ],
+            [
+                100,
+                "stmpd"
+            ]
+        ]
     ],
     [
         "Islands",
         "The xx",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        2,
+        3,
         [
             [
                 100,
@@ -234,6 +299,44 @@
                 "addictive"
             ]
         ]
+    ],
+    [
+        "Back 2 Back",
+        "Inlie",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        2,
+        []
+    ],
+    [
+        "Tongue",
+        "Rêve",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        2,
+        [
+            [
+                100,
+                "dance"
+            ],
+            [
+                100,
+                "dance pop"
+            ],
+            [
+                100,
+                "edm"
+            ],
+            [
+                100,
+                "hip house"
+            ]
+        ]
+    ],
+    [
+        "Burning",
+        "Seth Hills & Levex",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        2,
+        []
     ],
     [
         "Le Départ",
@@ -347,6 +450,13 @@
         ]
     ],
     [
+        "Mind Over Matter",
+        "Anthony Ramos",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        []
+    ],
+    [
         "Xtal",
         "Aphex Twin",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -435,11 +545,167 @@
         ]
     ],
     [
+        "Fill Me In",
+        "Craig David",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        [
+            [
+                100,
+                "rnb"
+            ],
+            [
+                67,
+                "pop"
+            ],
+            [
+                47,
+                "british"
+            ],
+            [
+                36,
+                "soul"
+            ],
+            [
+                24,
+                "craig david"
+            ],
+            [
+                16,
+                "dance"
+            ],
+            [
+                13,
+                "r and b"
+            ],
+            [
+                11,
+                "chill"
+            ],
+            [
+                11,
+                "male vocalists"
+            ],
+            [
+                11,
+                "uk garage"
+            ],
+            [
+                8,
+                "chillout"
+            ],
+            [
+                8,
+                "urban"
+            ],
+            [
+                8,
+                "fill me in"
+            ],
+            [
+                6,
+                "male vocalist"
+            ],
+            [
+                6,
+                "nostalgia"
+            ],
+            [
+                6,
+                "fun times"
+            ],
+            [
+                6,
+                "uk number one"
+            ]
+        ]
+    ],
+    [
         "Anything",
         "Crate Classics & JODIAN NATTY",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
+    ],
+    [
+        "Mercy",
+        "Duffy",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        [
+            [
+                100,
+                "soul"
+            ],
+            [
+                69,
+                "pop"
+            ],
+            [
+                54,
+                "duffy"
+            ],
+            [
+                43,
+                "british"
+            ],
+            [
+                16,
+                "mercy"
+            ],
+            [
+                12,
+                "jazz"
+            ],
+            [
+                8,
+                "sexy"
+            ],
+            [
+                7,
+                "retro"
+            ],
+            [
+                6,
+                "dance"
+            ],
+            [
+                5,
+                "female"
+            ],
+            [
+                4,
+                "blues"
+            ],
+            [
+                4,
+                "rock"
+            ],
+            [
+                4,
+                "catchy"
+            ],
+            [
+                4,
+                "britpop"
+            ],
+            [
+                4,
+                "party"
+            ],
+            [
+                4,
+                "funky"
+            ],
+            [
+                4,
+                "favorites"
+            ],
+            [
+                4,
+                "welsh"
+            ]
+        ]
     ],
     [
         "I Got U (feat. Jax Jones)",
@@ -486,6 +752,20 @@
         ]
     ],
     [
+        "Gift Of Life",
+        "Emily Nash",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        []
+    ],
+    [
+        "So High",
+        "Gregor Salto",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        []
+    ],
+    [
         "So High",
         "Gregor Salto & Ron Carroll",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -495,13 +775,6 @@
     [
         "Packs and Potions (TeeDee Remix)",
         "HAZEY & TeeDee",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
-        "Back 2 Back",
-        "Inlie",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
@@ -526,6 +799,126 @@
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
+    ],
+    [
+        "Mr. Know It All",
+        "Kelly Clarkson",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        [
+            [
+                100,
+                "pop"
+            ],
+            [
+                42,
+                "pop rock"
+            ],
+            [
+                24,
+                "kelly clarkson"
+            ],
+            [
+                22,
+                "ballad"
+            ],
+            [
+                10,
+                "american"
+            ],
+            [
+                8,
+                "piano"
+            ],
+            [
+                6,
+                "love"
+            ],
+            [
+                6,
+                "contemporary"
+            ],
+            [
+                6,
+                "soft rock"
+            ],
+            [
+                6,
+                "funk"
+            ],
+            [
+                6,
+                "angry"
+            ],
+            [
+                4,
+                "chillout"
+            ],
+            [
+                4,
+                "rock"
+            ],
+            [
+                4,
+                "nostalgic"
+            ],
+            [
+                4,
+                "pop-rock"
+            ],
+            [
+                4,
+                "english"
+            ],
+            [
+                4,
+                "female voices"
+            ],
+            [
+                4,
+                "sunflower"
+            ],
+            [
+                4,
+                "idol"
+            ],
+            [
+                4,
+                "awesome song"
+            ],
+            [
+                4,
+                "love the title"
+            ],
+            [
+                4,
+                "radio disney"
+            ],
+            [
+                4,
+                "talent show"
+            ],
+            [
+                4,
+                "mka"
+            ],
+            [
+                4,
+                "wpcb"
+            ],
+            [
+                4,
+                "pop music tag"
+            ],
+            [
+                4,
+                "mr know it all"
+            ],
+            [
+                4,
+                "my dance room"
+            ]
+        ]
     ],
     [
         "Settle Down",
@@ -819,30 +1212,18 @@
         []
     ],
     [
-        "Bet",
-        "Mark Laird",
+        "Phenomenal Woman",
+        "Laura Mvula",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         [
             [
                 100,
-                "electronic"
+                "pop"
             ],
             [
-                100,
-                "techno"
-            ],
-            [
-                100,
-                "house"
-            ],
-            [
-                100,
-                "breakbeat"
-            ],
-            [
-                100,
-                "ghetto house"
+                50,
+                "british"
             ]
         ]
     ],
@@ -1038,26 +1419,38 @@
         ]
     ],
     [
-        "Tongue",
-        "Rêve",
+        "Turn Me On (feat. Vula)",
+        "Riton",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         [
             [
                 100,
+                "electronic"
+            ],
+            [
+                100,
+                "house"
+            ],
+            [
+                50,
+                "pop"
+            ],
+            [
+                50,
                 "dance"
             ],
             [
-                100,
-                "dance pop"
+                50,
+                "dance-pop"
             ],
             [
-                100,
-                "edm"
+                50,
+                "techno"
             ],
             [
-                100,
-                "hip house"
+                50,
+                "tiktok"
             ]
         ]
     ],
@@ -1067,50 +1460,6 @@
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
-    ],
-    [
-        "Burning",
-        "Seth Hills",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "house"
-            ],
-            [
-                100,
-                "electro house"
-            ],
-            [
-                100,
-                "club"
-            ],
-            [
-                100,
-                "fidget house"
-            ],
-            [
-                100,
-                "edm"
-            ],
-            [
-                100,
-                "festival"
-            ],
-            [
-                100,
-                "complextro"
-            ],
-            [
-                100,
-                "bass house"
-            ],
-            [
-                100,
-                "stmpd"
-            ]
-        ]
     ],
     [
         "Best Friend (feat. NERVO, The Knocks & Alisa Ueno) [Remix]",
@@ -1125,6 +1474,94 @@
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
+    ],
+    [
+        "Up The Junction",
+        "Squeeze",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        [
+            [
+                100,
+                "new wave"
+            ],
+            [
+                63,
+                "pop"
+            ],
+            [
+                58,
+                "rock"
+            ],
+            [
+                49,
+                "british"
+            ],
+            [
+                27,
+                "power pop"
+            ],
+            [
+                22,
+                "squeeze"
+            ],
+            [
+                15,
+                "alternative"
+            ],
+            [
+                11,
+                "classic rock"
+            ],
+            [
+                11,
+                "male vocalists"
+            ],
+            [
+                6,
+                "favorites"
+            ],
+            [
+                6,
+                "love"
+            ],
+            [
+                6,
+                "britpop"
+            ],
+            [
+                6,
+                "funky"
+            ],
+            [
+                6,
+                "oldies"
+            ],
+            [
+                6,
+                "favourites"
+            ],
+            [
+                6,
+                "poignant"
+            ],
+            [
+                4,
+                "classic"
+            ],
+            [
+                4,
+                "post-punk"
+            ],
+            [
+                4,
+                "london"
+            ],
+            [
+                4,
+                "dad"
+            ]
+        ]
     ],
     [
         "Going Underground",
