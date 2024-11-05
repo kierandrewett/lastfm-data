@@ -3,7 +3,7 @@
         "She Blinded Me With Science",
         "Thomas Dolby",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        17,
+        19,
         [
             [
                 67,
@@ -260,6 +260,54 @@
             [
                 8,
                 "vampire radio"
+            ]
+        ]
+    ],
+    [
+        "Under Your Spell",
+        "Snow Strippers",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        15,
+        [
+            [
+                100,
+                "electropop"
+            ],
+            [
+                100,
+                "electroclash"
+            ],
+            [
+                100,
+                "electro"
+            ],
+            [
+                100,
+                "new rave"
+            ],
+            [
+                100,
+                "snow"
+            ],
+            [
+                100,
+                "stripping"
+            ],
+            [
+                100,
+                "striptease"
+            ],
+            [
+                100,
+                "popper"
+            ],
+            [
+                100,
+                "stripper"
+            ],
+            [
+                100,
+                "strippers"
             ]
         ]
     ],
@@ -632,98 +680,6 @@
         ]
     ],
     [
-        "She's So Lovely",
-        "Scouting for Girls",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        12,
-        [
-            [
-                100,
-                "indie"
-            ],
-            [
-                75,
-                "indie pop"
-            ],
-            [
-                67,
-                "british"
-            ],
-            [
-                47,
-                "indie rock"
-            ],
-            [
-                34,
-                "pop"
-            ],
-            [
-                15,
-                "upbeat"
-            ],
-            [
-                13,
-                "rock"
-            ],
-            [
-                13,
-                "catchy"
-            ],
-            [
-                12,
-                "britpop"
-            ],
-            [
-                10,
-                "alternative"
-            ],
-            [
-                9,
-                "love"
-            ],
-            [
-                8,
-                "piano"
-            ],
-            [
-                6,
-                "happy"
-            ],
-            [
-                6,
-                "male vocalists"
-            ],
-            [
-                5,
-                "summer"
-            ],
-            [
-                5,
-                "favourite"
-            ],
-            [
-                5,
-                "fun"
-            ],
-            [
-                5,
-                "piano rock"
-            ],
-            [
-                5,
-                "sweet"
-            ],
-            [
-                5,
-                "sing along"
-            ],
-            [
-                5,
-                "shes so lovely"
-            ]
-        ]
-    ],
-    [
         "One Way Or Another - Remastered 2001",
         "Blondie",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -891,54 +847,6 @@
         []
     ],
     [
-        "Under Your Spell",
-        "Snow Strippers",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        11,
-        [
-            [
-                100,
-                "electropop"
-            ],
-            [
-                100,
-                "electroclash"
-            ],
-            [
-                100,
-                "electro"
-            ],
-            [
-                100,
-                "new rave"
-            ],
-            [
-                100,
-                "snow"
-            ],
-            [
-                100,
-                "stripping"
-            ],
-            [
-                100,
-                "striptease"
-            ],
-            [
-                100,
-                "popper"
-            ],
-            [
-                100,
-                "stripper"
-            ],
-            [
-                100,
-                "strippers"
-            ]
-        ]
-    ],
-    [
         "Lets Go Surfing",
         "The Drums",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -1067,6 +975,98 @@
             [
                 8,
                 "spry"
+            ]
+        ]
+    ],
+    [
+        "She's So Lovely",
+        "Scouting for Girls",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        10,
+        [
+            [
+                100,
+                "indie"
+            ],
+            [
+                75,
+                "indie pop"
+            ],
+            [
+                67,
+                "british"
+            ],
+            [
+                47,
+                "indie rock"
+            ],
+            [
+                34,
+                "pop"
+            ],
+            [
+                15,
+                "upbeat"
+            ],
+            [
+                13,
+                "rock"
+            ],
+            [
+                13,
+                "catchy"
+            ],
+            [
+                12,
+                "britpop"
+            ],
+            [
+                10,
+                "alternative"
+            ],
+            [
+                9,
+                "love"
+            ],
+            [
+                8,
+                "piano"
+            ],
+            [
+                6,
+                "happy"
+            ],
+            [
+                6,
+                "male vocalists"
+            ],
+            [
+                5,
+                "summer"
+            ],
+            [
+                5,
+                "favourite"
+            ],
+            [
+                5,
+                "fun"
+            ],
+            [
+                5,
+                "piano rock"
+            ],
+            [
+                5,
+                "sweet"
+            ],
+            [
+                5,
+                "sing along"
+            ],
+            [
+                5,
+                "shes so lovely"
             ]
         ]
     ],
@@ -1853,13 +1853,6 @@
     [
         "Gin and Juice",
         "Charlie Mockler",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        3,
-        []
-    ],
-    [
-        "Music is the Answer - Radio Edit Remix",
-        "Danny Tenaglia",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         3,
         []
@@ -3233,13 +3226,6 @@
                 "a artist"
             ]
         ]
-    ],
-    [
-        "Knock me out",
-        "Adam Szabo",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
     ],
     [
         "Save Me - Edit",
@@ -5553,22 +5539,6 @@
         []
     ],
     [
-        "El Incomprendido",
-        "Farruko",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "latin"
-            ],
-            [
-                100,
-                "reggaeton"
-            ]
-        ]
-    ],
-    [
         "Spark",
         "Fitz and the Tantrums",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -6606,6 +6576,30 @@
         ]
     ],
     [
+        "I NEED YOU",
+        "Jon Batiste",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        [
+            [
+                100,
+                "jazz"
+            ],
+            [
+                100,
+                "soul"
+            ],
+            [
+                100,
+                "fip"
+            ],
+            [
+                100,
+                "neo soul"
+            ]
+        ]
+    ],
+    [
         "Let's Go Back",
         "Jungle",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -6753,25 +6747,6 @@
             [
                 12,
                 "eurolava"
-            ]
-        ]
-    ],
-    [
-        "Right Here",
-        "Kiinjo",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
-        "Bassthoven",
-        "Kyle Exum",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "rnb"
             ]
         ]
     ],
@@ -6948,13 +6923,6 @@
         ]
     ],
     [
-        "Thick Of It - Gay Remix",
-        "LKE PRODUCTIONS",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
         "Desperado Vespa",
         "LOOK MUM NO COMPUTER",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -6982,13 +6950,6 @@
         []
     ],
     [
-        "I Won't Give Up",
-        "Lost Girl",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
         "Runnin'",
         "Low Steppa",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -7008,6 +6969,98 @@
             [
                 100,
                 "duo"
+            ]
+        ]
+    ],
+    [
+        "ATHOTH A GO!! GO!!",
+        "Machine Girl",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        [
+            [
+                100,
+                "breakcore"
+            ],
+            [
+                100,
+                "synth punk"
+            ],
+            [
+                50,
+                "electronic"
+            ],
+            [
+                50,
+                "seen live"
+            ],
+            [
+                50,
+                "hip hop"
+            ],
+            [
+                50,
+                "pop"
+            ],
+            [
+                50,
+                "rap"
+            ],
+            [
+                50,
+                "lo-fi"
+            ],
+            [
+                50,
+                "quirky"
+            ],
+            [
+                50,
+                "electro pop"
+            ],
+            [
+                50,
+                "dnb"
+            ],
+            [
+                50,
+                "dance pop"
+            ],
+            [
+                50,
+                "dance-punk"
+            ],
+            [
+                50,
+                "hardcore punk"
+            ],
+            [
+                50,
+                "hypnagogic pop"
+            ],
+            [
+                50,
+                "exclamations"
+            ],
+            [
+                50,
+                "goat"
+            ],
+            [
+                50,
+                "chillhop"
+            ],
+            [
+                50,
+                "glitchbreak"
+            ],
+            [
+                50,
+                "quero ouvir"
+            ],
+            [
+                50,
+                "willowcore"
             ]
         ]
     ],
@@ -8022,42 +8075,6 @@
         ]
     ],
     [
-        "Turn Me On (feat. Vula)",
-        "Riton",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "electronic"
-            ],
-            [
-                100,
-                "house"
-            ],
-            [
-                50,
-                "pop"
-            ],
-            [
-                50,
-                "dance"
-            ],
-            [
-                50,
-                "dance-pop"
-            ],
-            [
-                50,
-                "techno"
-            ],
-            [
-                50,
-                "tiktok"
-            ]
-        ]
-    ],
-    [
         "Somebody's Watching Me - Single Version",
         "Rockwell",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -8083,6 +8100,66 @@
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
+    ],
+    [
+        "Run the Jewels",
+        "Run the Jewels",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        [
+            [
+                100,
+                "hip-hop"
+            ],
+            [
+                84,
+                "rap"
+            ],
+            [
+                17,
+                "hip hop"
+            ],
+            [
+                17,
+                "brooklyn"
+            ],
+            [
+                17,
+                "fip"
+            ],
+            [
+                17,
+                "wow"
+            ],
+            [
+                17,
+                "new york city"
+            ],
+            [
+                17,
+                "atlanta"
+            ],
+            [
+                17,
+                "title track"
+            ],
+            [
+                17,
+                "title tracks"
+            ],
+            [
+                17,
+                "jogging"
+            ],
+            [
+                17,
+                "self-titled"
+            ],
+            [
+                17,
+                "fools gold"
+            ]
+        ]
     ],
     [
         "Push It",
@@ -8194,6 +8271,13 @@
                 "house"
             ]
         ]
+    ],
+    [
+        "Moving All Around (Jumpin') (feat. Kim English) - Skream's This Is How We Do It Down South Remix",
+        "Schak",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        []
     ],
     [
         "I Put a Spell on You",
@@ -8404,6 +8488,13 @@
         []
     ],
     [
+        "Supply The Love",
+        "Silk",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        []
+    ],
+    [
         "We Belong",
         "Sneaky Sound System",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -8545,6 +8636,13 @@
                 "mr blonde"
             ]
         ]
+    ],
+    [
+        "This Feeling",
+        "Surrender",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        []
     ],
     [
         "Flowers - Sunship Radio Edit",
@@ -9767,6 +9865,346 @@
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
+    ],
+    [
+        "Cool Girl",
+        "Tove Lo",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        [
+            [
+                100,
+                "pop"
+            ],
+            [
+                67,
+                "electropop"
+            ],
+            [
+                45,
+                "house"
+            ],
+            [
+                23,
+                "electronic"
+            ],
+            [
+                23,
+                "indie"
+            ],
+            [
+                23,
+                "swedish"
+            ],
+            [
+                12,
+                "alternative"
+            ],
+            [
+                12,
+                "emo"
+            ],
+            [
+                12,
+                "dance"
+            ],
+            [
+                12,
+                "favorites"
+            ],
+            [
+                12,
+                "love"
+            ],
+            [
+                12,
+                "catchy"
+            ],
+            [
+                12,
+                "dance-pop"
+            ],
+            [
+                12,
+                "scandinavian"
+            ],
+            [
+                12,
+                "pretentious"
+            ],
+            [
+                12,
+                "nordic"
+            ],
+            [
+                12,
+                "summer"
+            ],
+            [
+                12,
+                "party"
+            ],
+            [
+                12,
+                "amazing"
+            ],
+            [
+                12,
+                "fierce"
+            ],
+            [
+                12,
+                "provocative"
+            ],
+            [
+                12,
+                "swedish pop"
+            ],
+            [
+                12,
+                "tropical"
+            ],
+            [
+                12,
+                "europe"
+            ],
+            [
+                12,
+                "fav"
+            ],
+            [
+                12,
+                "trash"
+            ],
+            [
+                12,
+                "sweden"
+            ],
+            [
+                12,
+                "emocore"
+            ],
+            [
+                12,
+                "boring"
+            ],
+            [
+                12,
+                "bullshit"
+            ],
+            [
+                12,
+                "awful"
+            ],
+            [
+                12,
+                "single"
+            ],
+            [
+                12,
+                "fallon"
+            ],
+            [
+                12,
+                "fave"
+            ],
+            [
+                12,
+                "visual kei"
+            ],
+            [
+                12,
+                "britney spears"
+            ],
+            [
+                12,
+                "spammers"
+            ],
+            [
+                12,
+                "spam"
+            ],
+            [
+                12,
+                "catchy as fuck"
+            ],
+            [
+                12,
+                "european"
+            ],
+            [
+                12,
+                "empowering"
+            ],
+            [
+                12,
+                "bland"
+            ],
+            [
+                12,
+                "trite"
+            ],
+            [
+                12,
+                "shite"
+            ],
+            [
+                12,
+                "untalented"
+            ],
+            [
+                12,
+                "electrohouse"
+            ],
+            [
+                12,
+                "shitcore"
+            ],
+            [
+                12,
+                "hipster"
+            ],
+            [
+                12,
+                "horrible"
+            ],
+            [
+                12,
+                "decadence"
+            ],
+            [
+                12,
+                "joke"
+            ],
+            [
+                12,
+                "generic"
+            ],
+            [
+                12,
+                "spammer"
+            ],
+            [
+                12,
+                "not music"
+            ],
+            [
+                12,
+                "britney"
+            ],
+            [
+                12,
+                "spamcore"
+            ],
+            [
+                12,
+                "decadent"
+            ],
+            [
+                12,
+                "uncool"
+            ],
+            [
+                12,
+                "shitwave"
+            ],
+            [
+                12,
+                "conan"
+            ],
+            [
+                12,
+                "trashcore"
+            ],
+            [
+                12,
+                "hipster garabe"
+            ],
+            [
+                12,
+                "european pop"
+            ],
+            [
+                12,
+                "hino"
+            ],
+            [
+                12,
+                "tasteless"
+            ],
+            [
+                12,
+                "amei"
+            ],
+            [
+                12,
+                "tropical house"
+            ],
+            [
+                12,
+                "uncreative"
+            ],
+            [
+                12,
+                "emo revival"
+            ],
+            [
+                12,
+                "worst"
+            ],
+            [
+                12,
+                "sexo"
+            ],
+            [
+                12,
+                "appalling"
+            ],
+            [
+                12,
+                "hipstercore"
+            ],
+            [
+                12,
+                "provocation"
+            ],
+            [
+                12,
+                "uninteresting"
+            ],
+            [
+                12,
+                "farofa"
+            ],
+            [
+                12,
+                "bore"
+            ],
+            [
+                12,
+                "emogaycore"
+            ],
+            [
+                12,
+                "barely music"
+            ],
+            [
+                12,
+                "deafcore"
+            ],
+            [
+                12,
+                "spamming"
+            ],
+            [
+                12,
+                "hate my nation"
+            ],
+            [
+                12,
+                "bucetacore"
+            ]
+        ]
     ],
     [
         "Satan's a Woman",
