@@ -1,9 +1,16 @@
 [
     [
+        "Transition",
+        "DJ Phantasy",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        19,
+        []
+    ],
+    [
         "mr useless",
         "Shygirl",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        17,
+        18,
         [
             [
                 100,
@@ -28,17 +35,10 @@
         ]
     ],
     [
-        "Transition",
-        "DJ Phantasy",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        16,
-        []
-    ],
-    [
         "Places to Be",
         "Fred again..",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        15,
+        17,
         [
             [
                 100,
@@ -90,7 +90,7 @@
         "Young Folks",
         "Dom Valentino",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        14,
+        15,
         [
             [
                 100,
@@ -99,161 +99,17 @@
         ]
     ],
     [
-        "I Need Air (feat. Angela Hunte)",
-        "Magnetic Man",
+        "Vibe Like This (feat. Ty Dolla $ign & Lucky Daye)",
+        "SG Lewis",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        14,
-        [
-            [
-                100,
-                "dubstep"
-            ],
-            [
-                29,
-                "dance"
-            ],
-            [
-                29,
-                "breakbeat"
-            ],
-            [
-                15,
-                "electronica"
-            ],
-            [
-                15,
-                "vocal"
-            ],
-            [
-                15,
-                "grime"
-            ],
-            [
-                15,
-                "uk garage"
-            ],
-            [
-                15,
-                "banned"
-            ],
-            [
-                15,
-                "trancestep"
-            ]
-        ]
-    ],
-    [
-        "Material Girl",
-        "Madonna",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        8,
-        [
-            [
-                100,
-                "pop"
-            ],
-            [
-                46,
-                "madonna"
-            ],
-            [
-                35,
-                "dance"
-            ],
-            [
-                8,
-                "fun"
-            ],
-            [
-                8,
-                "material girl"
-            ],
-            [
-                7,
-                "american"
-            ],
-            [
-                5,
-                "party"
-            ],
-            [
-                4,
-                "rock"
-            ],
-            [
-                4,
-                "electronic"
-            ],
-            [
-                4,
-                "female"
-            ],
-            [
-                4,
-                "diva"
-            ],
-            [
-                4,
-                "dance pop"
-            ]
-        ]
-    ],
-    [
-        "Good Lies",
-        "Overmono",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        8,
-        [
-            [
-                100,
-                "electronic"
-            ],
-            [
-                67,
-                "uk bass"
-            ],
-            [
-                34,
-                "trance"
-            ],
-            [
-                34,
-                "pop"
-            ],
-            [
-                34,
-                "bass"
-            ],
-            [
-                34,
-                "breakbeat"
-            ],
-            [
-                34,
-                "rnb"
-            ],
-            [
-                34,
-                "fip"
-            ],
-            [
-                34,
-                "myspotigrambot"
-            ]
-        ]
-    ],
-    [
-        "Wildfire",
-        "Sub Focus",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        8,
+        15,
         []
     ],
     [
         "You to Me Are Everything",
         "The Real Thing",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        8,
+        15,
         [
             [
                 100,
@@ -318,22 +174,117 @@
         ]
     ],
     [
-        "On & On (Again)",
-        "Confidence Man",
+        "I Need Air (feat. Angela Hunte)",
+        "Magnetic Man",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        7,
+        13,
         [
             [
                 100,
-                "cant add video"
+                "dubstep"
+            ],
+            [
+                29,
+                "dance"
+            ],
+            [
+                29,
+                "breakbeat"
+            ],
+            [
+                15,
+                "electronica"
+            ],
+            [
+                15,
+                "vocal"
+            ],
+            [
+                15,
+                "grime"
+            ],
+            [
+                15,
+                "uk garage"
+            ],
+            [
+                15,
+                "banned"
+            ],
+            [
+                15,
+                "trancestep"
             ]
         ]
+    ],
+    [
+        "Material Girl",
+        "Madonna",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        12,
+        [
+            [
+                100,
+                "pop"
+            ],
+            [
+                46,
+                "madonna"
+            ],
+            [
+                35,
+                "dance"
+            ],
+            [
+                8,
+                "fun"
+            ],
+            [
+                8,
+                "material girl"
+            ],
+            [
+                7,
+                "american"
+            ],
+            [
+                5,
+                "party"
+            ],
+            [
+                4,
+                "rock"
+            ],
+            [
+                4,
+                "electronic"
+            ],
+            [
+                4,
+                "female"
+            ],
+            [
+                4,
+                "diva"
+            ],
+            [
+                4,
+                "dance pop"
+            ]
+        ]
+    ],
+    [
+        "Wildfire",
+        "Sub Focus",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        12,
+        []
     ],
     [
         "Succession (Main Title Theme)",
         "Nicholas Britell",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        7,
+        8,
         [
             [
                 100,
@@ -414,6 +365,18 @@
             [
                 50,
                 "old money"
+            ]
+        ]
+    ],
+    [
+        "On & On (Again)",
+        "Confidence Man",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        7,
+        [
+            [
+                100,
+                "cant add video"
             ]
         ]
     ],
@@ -509,39 +472,48 @@
         ]
     ],
     [
-        "Rainbow",
-        "ATrip",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        6,
-        []
-    ],
-    [
-        "Mr. Sandman",
-        "Oppidan",
+        "Good Lies",
+        "Overmono",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         5,
-        []
-    ],
-    [
-        "Vibe Like This (feat. Ty Dolla $ign & Lucky Daye)",
-        "SG Lewis",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        5,
-        []
-    ],
-    [
-        "Friday (Alone Right Now)",
-        "ATRIP",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        4,
-        []
-    ],
-    [
-        "BREAK IT DOWN (ON THE BASSLINE)",
-        "Confidence Man",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        4,
-        []
+        [
+            [
+                100,
+                "electronic"
+            ],
+            [
+                67,
+                "uk bass"
+            ],
+            [
+                34,
+                "trance"
+            ],
+            [
+                34,
+                "pop"
+            ],
+            [
+                34,
+                "bass"
+            ],
+            [
+                34,
+                "breakbeat"
+            ],
+            [
+                34,
+                "rnb"
+            ],
+            [
+                34,
+                "fip"
+            ],
+            [
+                34,
+                "myspotigrambot"
+            ]
+        ]
     ],
     [
         "Roll The Credits",
@@ -551,423 +523,10 @@
         []
     ],
     [
-        "Now U Do",
-        "DJ Seinfeld",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        4,
-        []
-    ],
-    [
-        "Now U Do - Edit",
-        "DJ Seinfeld",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        4,
-        []
-    ],
-    [
-        "Waited All Night",
-        "Jamie xx",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        4,
-        [
-            [
-                100,
-                "electronic"
-            ],
-            [
-                100,
-                "breaks"
-            ],
-            [
-                100,
-                "rnb"
-            ],
-            [
-                100,
-                "uk bass"
-            ],
-            [
-                100,
-                "edm"
-            ],
-            [
-                100,
-                "future garage"
-            ],
-            [
-                100,
-                "uk garage"
-            ]
-        ]
-    ],
-    [
-        "Mercy",
-        "Joshwa",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        4,
-        []
-    ],
-    [
-        "The Danger",
-        "lau.ra",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        4,
-        []
-    ],
-    [
-        "Hungry (For Love)",
-        "LF System",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        4,
-        []
-    ],
-    [
-        "If U Need It",
-        "Sammy Virji",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        4,
-        [
-            [
-                100,
-                "garage"
-            ],
-            [
-                100,
-                "techhouse"
-            ],
-            [
-                100,
-                "acapella"
-            ],
-            [
-                100,
-                "woman"
-            ]
-        ]
-    ],
-    [
-        "Smoke In Your Eyes",
-        "Skepta",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        4,
-        []
-    ],
-    [
-        "Murder on the Dancefloor",
-        "Sophie Ellis-Bextor",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        4,
-        [
-            [
-                100,
-                "pop"
-            ],
-            [
-                85,
-                "dance"
-            ],
-            [
-                40,
-                "disco"
-            ],
-            [
-                31,
-                "british"
-            ],
-            [
-                12,
-                "electronic"
-            ],
-            [
-                8,
-                "party"
-            ],
-            [
-                7,
-                "dance-pop"
-            ],
-            [
-                5,
-                "female"
-            ],
-            [
-                5,
-                "britpop"
-            ],
-            [
-                4,
-                "house"
-            ],
-            [
-                4,
-                "sexy"
-            ]
-        ]
-    ],
-    [
-        "god walked down",
-        "The Allergies",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        4,
-        [
-            [
-                100,
-                "funky"
-            ],
-            [
-                100,
-                "fip"
-            ]
-        ]
-    ],
-    [
-        "Conoci la Paz",
-        "Beny Moré",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        3,
-        [
-            [
-                100,
-                "latin"
-            ],
-            [
-                75,
-                "cuban"
-            ],
-            [
-                75,
-                "dexter"
-            ],
-            [
-                50,
-                "cuba"
-            ],
-            [
-                25,
-                "chillout"
-            ],
-            [
-                25,
-                "jazz"
-            ],
-            [
-                25,
-                "bolero"
-            ],
-            [
-                25,
-                "excelllent"
-            ],
-            [
-                25,
-                "bolero cubain"
-            ]
-        ]
-    ],
-    [
-        "She’s Gone, Dance On",
-        "Disclosure",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        3,
-        [
-            [
-                100,
-                "dance"
-            ],
-            [
-                100,
-                "house"
-            ],
-            [
-                100,
-                "funky house"
-            ],
-            [
-                100,
-                "edm"
-            ],
-            [
-                100,
-                "myspotigrambot"
-            ]
-        ]
-    ],
-    [
-        "Bon Bon",
-        "Fcukers",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        3,
-        []
-    ],
-    [
-        "Lightning Bolt",
-        "Jake Bugg",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        3,
-        [
-            [
-                100,
-                "folk"
-            ],
-            [
-                71,
-                "british"
-            ],
-            [
-                48,
-                "indie"
-            ],
-            [
-                42,
-                "indie rock"
-            ],
-            [
-                36,
-                "rock"
-            ],
-            [
-                36,
-                "jake bugg"
-            ],
-            [
-                30,
-                "folk rock"
-            ],
-            [
-                30,
-                "indie folk"
-            ],
-            [
-                24,
-                "alternative"
-            ],
-            [
-                18,
-                "country rock"
-            ],
-            [
-                12,
-                "love it"
-            ],
-            [
-                6,
-                "pop"
-            ],
-            [
-                6,
-                "indie pop"
-            ],
-            [
-                6,
-                "love"
-            ],
-            [
-                6,
-                "catchy"
-            ],
-            [
-                6,
-                "easy listening"
-            ],
-            [
-                6,
-                "retro"
-            ],
-            [
-                6,
-                "upbeat"
-            ],
-            [
-                6,
-                "morning"
-            ],
-            [
-                6,
-                "fip"
-            ],
-            [
-                6,
-                "male vocalist"
-            ],
-            [
-                6,
-                "male vocalists"
-            ],
-            [
-                6,
-                "hand claps"
-            ],
-            [
-                6,
-                "folkrock"
-            ],
-            [
-                6,
-                "fav"
-            ],
-            [
-                6,
-                "letterman"
-            ],
-            [
-                6,
-                "chart"
-            ],
-            [
-                6,
-                "program trzeci"
-            ],
-            [
-                6,
-                "fuk"
-            ],
-            [
-                6,
-                "channel x"
-            ],
-            [
-                6,
-                "escutar"
-            ],
-            [
-                6,
-                "leno"
-            ],
-            [
-                6,
-                "steunfonds"
-            ],
-            [
-                6,
-                "retoili"
-            ],
-            [
-                6,
-                "vienas"
-            ]
-        ]
-    ],
-    [
-        "Lose My Mind",
-        "Jamie Jones",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        3,
-        [
-            [
-                100,
-                "house"
-            ],
-            [
-                100,
-                "nu disco"
-            ]
-        ]
-    ],
-    [
         "Selekta - feat. Albie Wobble, Trixie B & SIDEQUEST",
         "Kyle Gordon",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        3,
+        4,
         [
             [
                 100,
@@ -988,820 +547,10 @@
         ]
     ],
     [
-        "Daft Punk Is Playing at My House",
-        "LCD Soundsystem",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        3,
-        [
-            [
-                100,
-                "electronic"
-            ],
-            [
-                67,
-                "indie"
-            ],
-            [
-                65,
-                "dance"
-            ],
-            [
-                34,
-                "electronica"
-            ],
-            [
-                34,
-                "electro"
-            ],
-            [
-                20,
-                "rock"
-            ],
-            [
-                20,
-                "alternative"
-            ],
-            [
-                15,
-                "indie rock"
-            ],
-            [
-                14,
-                "dance-punk"
-            ],
-            [
-                11,
-                "party"
-            ],
-            [
-                10,
-                "electroclash"
-            ],
-            [
-                10,
-                "dance punk"
-            ],
-            [
-                9,
-                "cowbell"
-            ],
-            [
-                9,
-                "post-punk"
-            ],
-            [
-                7,
-                "punk"
-            ],
-            [
-                7,
-                "funk"
-            ],
-            [
-                7,
-                "fun"
-            ],
-            [
-                6,
-                "catchy"
-            ],
-            [
-                6,
-                "the oc"
-            ],
-            [
-                5,
-                "cool"
-            ],
-            [
-                5,
-                "dance party"
-            ],
-            [
-                5,
-                "daft punk"
-            ],
-            [
-                5,
-                "dfa"
-            ],
-            [
-                4,
-                "disco"
-            ],
-            [
-                4,
-                "seen live"
-            ],
-            [
-                4,
-                "house"
-            ],
-            [
-                4,
-                "funky"
-            ],
-            [
-                4,
-                "hand claps"
-            ],
-            [
-                4,
-                "more cowbell"
-            ],
-            [
-                4,
-                "american"
-            ],
-            [
-                4,
-                "bouncy"
-            ],
-            [
-                4,
-                "dancefloor"
-            ],
-            [
-                4,
-                "amayzes loved"
-            ]
-        ]
-    ],
-    [
-        "Euphoria",
-        "Loreen",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        3,
-        [
-            [
-                100,
-                "eurovision"
-            ],
-            [
-                83,
-                "pop"
-            ],
-            [
-                49,
-                "dance"
-            ],
-            [
-                27,
-                "sweden"
-            ],
-            [
-                27,
-                "loreen"
-            ],
-            [
-                25,
-                "swedish"
-            ],
-            [
-                22,
-                "electronic"
-            ],
-            [
-                16,
-                "esc"
-            ],
-            [
-                14,
-                "electropop"
-            ],
-            [
-                8,
-                "trance"
-            ],
-            [
-                6,
-                "catchy"
-            ],
-            [
-                6,
-                "dance-pop"
-            ],
-            [
-                6,
-                "house"
-            ],
-            [
-                4,
-                "female"
-            ],
-            [
-                4,
-                "scandinavian"
-            ],
-            [
-                4,
-                "female vocals"
-            ],
-            [
-                4,
-                "europop"
-            ]
-        ]
-    ],
-    [
-        "And 1",
-        "Melé",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        3,
-        []
-    ],
-    [
-        "Arms",
-        "Model Man",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        3,
-        []
-    ],
-    [
-        "Tonight You Belong to Me",
-        "Patience & Prudence",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        3,
-        [
-            [
-                100,
-                "oldies"
-            ],
-            [
-                50,
-                "ebay"
-            ],
-            [
-                50,
-                "singing kids"
-            ],
-            [
-                34,
-                "kitsch"
-            ],
-            [
-                17,
-                "pop"
-            ],
-            [
-                17,
-                "twee"
-            ],
-            [
-                17,
-                "happy"
-            ],
-            [
-                17,
-                "love"
-            ],
-            [
-                17,
-                "easy listening"
-            ],
-            [
-                17,
-                "spooky"
-            ],
-            [
-                17,
-                "sex"
-            ],
-            [
-                17,
-                "novelty"
-            ],
-            [
-                17,
-                "warm"
-            ],
-            [
-                17,
-                "commercial"
-            ],
-            [
-                17,
-                "poprock"
-            ],
-            [
-                17,
-                "vintage"
-            ],
-            [
-                17,
-                "sleepy"
-            ],
-            [
-                17,
-                "nightmares"
-            ],
-            [
-                17,
-                "obscuro"
-            ],
-            [
-                17,
-                "solx"
-            ],
-            [
-                17,
-                "to classify"
-            ],
-            [
-                17,
-                "lieblinge"
-            ],
-            [
-                17,
-                "bates motel"
-            ],
-            [
-                17,
-                "little one"
-            ]
-        ]
-    ],
-    [
-        "Nobody To Love - Radio Edit",
-        "Sigma",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        3,
-        [
-            [
-                100,
-                "drum and bass"
-            ]
-        ]
-    ],
-    [
-        "Everything Is Peaceful Love",
-        "Bon Iver",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        2,
-        [
-            [
-                100,
-                "pop"
-            ]
-        ]
-    ],
-    [
-        "Closer",
-        "Bou",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        2,
-        [
-            [
-                100,
-                "liquid"
-            ],
-            [
-                100,
-                "dnb"
-            ],
-            [
-                100,
-                "men"
-            ],
-            [
-                100,
-                "banger"
-            ]
-        ]
-    ],
-    [
-        "Does It Make You Feel Good?",
-        "Confidence Man",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        2,
-        []
-    ],
-    [
-        "I CAN’T LOSE YOU",
-        "Confidence Man",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        2,
-        [
-            [
-                100,
-                "dance"
-            ],
-            [
-                100,
-                "house"
-            ],
-            [
-                100,
-                "dance pop"
-            ]
-        ]
-    ],
-    [
-        "On & On (Again) - Edit",
-        "Confidence Man",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        2,
-        []
-    ],
-    [
-        "A Little Closer",
-        "Diffrent",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        2,
-        []
-    ],
-    [
-        "In My Room (feat. SHELLS)",
-        "Dombresky",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        2,
-        []
-    ],
-    [
-        "Ask Me",
-        "Duck Sauce",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        2,
-        [
-            [
-                100,
-                "electronic"
-            ],
-            [
-                100,
-                "club"
-            ],
-            [
-                100,
-                "funky house"
-            ]
-        ]
-    ],
-    [
-        "Free",
-        "Emz",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        2,
-        [
-            [
-                100,
-                "liquid"
-            ],
-            [
-                100,
-                "dnb"
-            ],
-            [
-                100,
-                "men"
-            ],
-            [
-                100,
-                "acapella"
-            ],
-            [
-                100,
-                "banger"
-            ]
-        ]
-    ],
-    [
-        "Get Gassed",
-        "foor",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        2,
-        []
-    ],
-    [
-        "No Time (feat. SadBoi)",
-        "Interplanetary Criminal",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        2,
-        []
-    ],
-    [
-        "Nights Like These",
-        "Jake Shore",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        2,
-        []
-    ],
-    [
-        "Baddy On The Floor",
-        "Jamie xx",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        2,
-        [
-            [
-                100,
-                "house"
-            ],
-            [
-                67,
-                "funky house"
-            ],
-            [
-                67,
-                "garage house"
-            ],
-            [
-                34,
-                "disco"
-            ],
-            [
-                34,
-                "electronic"
-            ],
-            [
-                34,
-                "dance"
-            ],
-            [
-                34,
-                "tech house"
-            ],
-            [
-                34,
-                "deep house"
-            ],
-            [
-                34,
-                "french house"
-            ],
-            [
-                34,
-                "edm"
-            ],
-            [
-                34,
-                "vocal chops"
-            ]
-        ]
-    ],
-    [
-        "All Day and Night",
-        "Jax Jones",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        2,
-        []
-    ],
-    [
-        "The Cat",
-        "Jimmy Smith",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        2,
-        [
-            [
-                100,
-                "jazz"
-            ],
-            [
-                54,
-                "funk"
-            ],
-            [
-                47,
-                "organ"
-            ],
-            [
-                42,
-                "hammond"
-            ],
-            [
-                30,
-                "groove"
-            ],
-            [
-                17,
-                "jimmy smith"
-            ],
-            [
-                14,
-                "hammond organ"
-            ],
-            [
-                10,
-                "blue note"
-            ],
-            [
-                9,
-                "soul"
-            ],
-            [
-                9,
-                "amayzes loved"
-            ],
-            [
-                9,
-                "mod jazz"
-            ],
-            [
-                7,
-                "instrumental"
-            ],
-            [
-                7,
-                "blues"
-            ],
-            [
-                7,
-                "groovy"
-            ],
-            [
-                5,
-                "funky"
-            ],
-            [
-                5,
-                "cat"
-            ],
-            [
-                5,
-                "jazzattack"
-            ],
-            [
-                4,
-                "easy listening"
-            ],
-            [
-                4,
-                "cinematic"
-            ],
-            [
-                4,
-                "favorite"
-            ],
-            [
-                4,
-                "animals"
-            ],
-            [
-                4,
-                "cats"
-            ],
-            [
-                4,
-                "cooking"
-            ],
-            [
-                4,
-                "play it loud"
-            ]
-        ]
-    ],
-    [
-        "Alejandro",
-        "Lady Gaga",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        2,
-        [
-            [
-                100,
-                "pop"
-            ],
-            [
-                84,
-                "lady gaga"
-            ],
-            [
-                64,
-                "dance"
-            ],
-            [
-                44,
-                "electronic"
-            ],
-            [
-                15,
-                "alejandro"
-            ],
-            [
-                13,
-                "electropop"
-            ],
-            [
-                8,
-                "sexy"
-            ],
-            [
-                8,
-                "gaga"
-            ],
-            [
-                7,
-                "addictive"
-            ],
-            [
-                7,
-                "catchy"
-            ],
-            [
-                6,
-                "dance-pop"
-            ],
-            [
-                5,
-                "american"
-            ],
-            [
-                5,
-                "tatu"
-            ],
-            [
-                4,
-                "synthpop"
-            ],
-            [
-                4,
-                "gagalicious"
-            ]
-        ]
-    ],
-    [
-        "Just Dance",
-        "Lady Gaga",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        2,
-        [
-            [
-                100,
-                "dance"
-            ],
-            [
-                75,
-                "pop"
-            ],
-            [
-                58,
-                "lady gaga"
-            ],
-            [
-                39,
-                "electronic"
-            ],
-            [
-                20,
-                "just dance"
-            ],
-            [
-                13,
-                "party"
-            ],
-            [
-                11,
-                "catchy"
-            ],
-            [
-                7,
-                "electropop"
-            ],
-            [
-                7,
-                "dance pop"
-            ],
-            [
-                6,
-                "club"
-            ],
-            [
-                5,
-                "sexy"
-            ],
-            [
-                5,
-                "favorites"
-            ],
-            [
-                4,
-                "electro"
-            ],
-            [
-                4,
-                "electronica"
-            ],
-            [
-                4,
-                "fun"
-            ],
-            [
-                4,
-                "gaga"
-            ],
-            [
-                4,
-                "pop dance"
-            ],
-            [
-                4,
-                "disco"
-            ]
-        ]
-    ],
-    [
         "Deceptacon",
         "Le Tigre",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        2,
+        4,
         [
             [
                 100,
@@ -1982,6 +731,770 @@
         ]
     ],
     [
+        "Rainbow",
+        "ATrip",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        3,
+        []
+    ],
+    [
+        "Conoci la Paz",
+        "Beny Moré",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        3,
+        [
+            [
+                100,
+                "latin"
+            ],
+            [
+                75,
+                "cuban"
+            ],
+            [
+                75,
+                "dexter"
+            ],
+            [
+                50,
+                "cuba"
+            ],
+            [
+                25,
+                "chillout"
+            ],
+            [
+                25,
+                "jazz"
+            ],
+            [
+                25,
+                "bolero"
+            ],
+            [
+                25,
+                "excelllent"
+            ],
+            [
+                25,
+                "bolero cubain"
+            ]
+        ]
+    ],
+    [
+        "Everything Is Peaceful Love",
+        "Bon Iver",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        3,
+        [
+            [
+                100,
+                "pop"
+            ]
+        ]
+    ],
+    [
+        "Now U Do",
+        "DJ Seinfeld",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        3,
+        []
+    ],
+    [
+        "Lightning Bolt",
+        "Jake Bugg",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        3,
+        [
+            [
+                100,
+                "folk"
+            ],
+            [
+                71,
+                "british"
+            ],
+            [
+                48,
+                "indie"
+            ],
+            [
+                42,
+                "indie rock"
+            ],
+            [
+                36,
+                "rock"
+            ],
+            [
+                36,
+                "jake bugg"
+            ],
+            [
+                30,
+                "folk rock"
+            ],
+            [
+                30,
+                "indie folk"
+            ],
+            [
+                24,
+                "alternative"
+            ],
+            [
+                18,
+                "country rock"
+            ],
+            [
+                12,
+                "love it"
+            ],
+            [
+                6,
+                "pop"
+            ],
+            [
+                6,
+                "indie pop"
+            ],
+            [
+                6,
+                "love"
+            ],
+            [
+                6,
+                "catchy"
+            ],
+            [
+                6,
+                "easy listening"
+            ],
+            [
+                6,
+                "retro"
+            ],
+            [
+                6,
+                "upbeat"
+            ],
+            [
+                6,
+                "morning"
+            ],
+            [
+                6,
+                "fip"
+            ],
+            [
+                6,
+                "male vocalist"
+            ],
+            [
+                6,
+                "male vocalists"
+            ],
+            [
+                6,
+                "hand claps"
+            ],
+            [
+                6,
+                "folkrock"
+            ],
+            [
+                6,
+                "fav"
+            ],
+            [
+                6,
+                "letterman"
+            ],
+            [
+                6,
+                "chart"
+            ],
+            [
+                6,
+                "program trzeci"
+            ],
+            [
+                6,
+                "fuk"
+            ],
+            [
+                6,
+                "channel x"
+            ],
+            [
+                6,
+                "escutar"
+            ],
+            [
+                6,
+                "leno"
+            ],
+            [
+                6,
+                "steunfonds"
+            ],
+            [
+                6,
+                "retoili"
+            ],
+            [
+                6,
+                "vienas"
+            ]
+        ]
+    ],
+    [
+        "Mercy",
+        "Joshwa",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        3,
+        []
+    ],
+    [
+        "Tonight You Belong to Me",
+        "Patience & Prudence",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        3,
+        [
+            [
+                100,
+                "oldies"
+            ],
+            [
+                50,
+                "ebay"
+            ],
+            [
+                50,
+                "singing kids"
+            ],
+            [
+                34,
+                "kitsch"
+            ],
+            [
+                17,
+                "pop"
+            ],
+            [
+                17,
+                "twee"
+            ],
+            [
+                17,
+                "happy"
+            ],
+            [
+                17,
+                "love"
+            ],
+            [
+                17,
+                "easy listening"
+            ],
+            [
+                17,
+                "spooky"
+            ],
+            [
+                17,
+                "sex"
+            ],
+            [
+                17,
+                "novelty"
+            ],
+            [
+                17,
+                "warm"
+            ],
+            [
+                17,
+                "commercial"
+            ],
+            [
+                17,
+                "poprock"
+            ],
+            [
+                17,
+                "vintage"
+            ],
+            [
+                17,
+                "sleepy"
+            ],
+            [
+                17,
+                "nightmares"
+            ],
+            [
+                17,
+                "obscuro"
+            ],
+            [
+                17,
+                "solx"
+            ],
+            [
+                17,
+                "to classify"
+            ],
+            [
+                17,
+                "lieblinge"
+            ],
+            [
+                17,
+                "bates motel"
+            ],
+            [
+                17,
+                "little one"
+            ]
+        ]
+    ],
+    [
+        "Nobody To Love - Radio Edit",
+        "Sigma",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        3,
+        [
+            [
+                100,
+                "drum and bass"
+            ]
+        ]
+    ],
+    [
+        "Smoke In Your Eyes",
+        "Skepta",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        3,
+        []
+    ],
+    [
+        "god walked down",
+        "The Allergies",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        3,
+        [
+            [
+                100,
+                "funky"
+            ],
+            [
+                100,
+                "fip"
+            ]
+        ]
+    ],
+    [
+        "We Need Jungle (I'm afraid)",
+        "Venjent",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        3,
+        []
+    ],
+    [
+        "Zero to Hero",
+        "BENEE",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        2,
+        []
+    ],
+    [
+        "Closer",
+        "Bou",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        2,
+        [
+            [
+                100,
+                "liquid"
+            ],
+            [
+                100,
+                "dnb"
+            ],
+            [
+                100,
+                "men"
+            ],
+            [
+                100,
+                "banger"
+            ]
+        ]
+    ],
+    [
+        "BREAK IT DOWN (ON THE BASSLINE)",
+        "Confidence Man",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        2,
+        []
+    ],
+    [
+        "She’s Gone, Dance On",
+        "Disclosure",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        2,
+        [
+            [
+                100,
+                "dance"
+            ],
+            [
+                100,
+                "house"
+            ],
+            [
+                100,
+                "funky house"
+            ],
+            [
+                100,
+                "edm"
+            ],
+            [
+                100,
+                "myspotigrambot"
+            ]
+        ]
+    ],
+    [
+        "Ask Me",
+        "Duck Sauce",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        2,
+        [
+            [
+                100,
+                "electronic"
+            ],
+            [
+                100,
+                "club"
+            ],
+            [
+                100,
+                "funky house"
+            ]
+        ]
+    ],
+    [
+        "Pump It Up - 2021 Remaster",
+        "Elvis Costello & The Attractions",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        2,
+        [
+            [
+                100,
+                "new wave"
+            ],
+            [
+                67,
+                "power pop"
+            ],
+            [
+                67,
+                "glam punk"
+            ],
+            [
+                34,
+                "faves"
+            ]
+        ]
+    ],
+    [
+        "Free",
+        "Emz",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        2,
+        [
+            [
+                100,
+                "liquid"
+            ],
+            [
+                100,
+                "dnb"
+            ],
+            [
+                100,
+                "men"
+            ],
+            [
+                100,
+                "acapella"
+            ],
+            [
+                100,
+                "banger"
+            ]
+        ]
+    ],
+    [
+        "Bon Bon",
+        "Fcukers",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        2,
+        []
+    ],
+    [
+        "Get Gassed",
+        "foor",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        2,
+        []
+    ],
+    [
+        "Feel It",
+        "Jauz",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        2,
+        []
+    ],
+    [
+        "Just Dance",
+        "Lady Gaga",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        2,
+        [
+            [
+                100,
+                "dance"
+            ],
+            [
+                75,
+                "pop"
+            ],
+            [
+                58,
+                "lady gaga"
+            ],
+            [
+                39,
+                "electronic"
+            ],
+            [
+                20,
+                "just dance"
+            ],
+            [
+                13,
+                "party"
+            ],
+            [
+                11,
+                "catchy"
+            ],
+            [
+                7,
+                "electropop"
+            ],
+            [
+                7,
+                "dance pop"
+            ],
+            [
+                6,
+                "club"
+            ],
+            [
+                5,
+                "sexy"
+            ],
+            [
+                5,
+                "favorites"
+            ],
+            [
+                4,
+                "electro"
+            ],
+            [
+                4,
+                "electronica"
+            ],
+            [
+                4,
+                "fun"
+            ],
+            [
+                4,
+                "gaga"
+            ],
+            [
+                4,
+                "pop dance"
+            ],
+            [
+                4,
+                "disco"
+            ]
+        ]
+    ],
+    [
+        "The Danger",
+        "lau.ra",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        2,
+        []
+    ],
+    [
+        "Daft Punk Is Playing at My House",
+        "LCD Soundsystem",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        2,
+        [
+            [
+                100,
+                "electronic"
+            ],
+            [
+                67,
+                "indie"
+            ],
+            [
+                65,
+                "dance"
+            ],
+            [
+                34,
+                "electronica"
+            ],
+            [
+                34,
+                "electro"
+            ],
+            [
+                20,
+                "rock"
+            ],
+            [
+                20,
+                "alternative"
+            ],
+            [
+                15,
+                "indie rock"
+            ],
+            [
+                14,
+                "dance-punk"
+            ],
+            [
+                11,
+                "party"
+            ],
+            [
+                10,
+                "electroclash"
+            ],
+            [
+                10,
+                "dance punk"
+            ],
+            [
+                9,
+                "cowbell"
+            ],
+            [
+                9,
+                "post-punk"
+            ],
+            [
+                7,
+                "punk"
+            ],
+            [
+                7,
+                "funk"
+            ],
+            [
+                7,
+                "fun"
+            ],
+            [
+                6,
+                "catchy"
+            ],
+            [
+                6,
+                "the oc"
+            ],
+            [
+                5,
+                "cool"
+            ],
+            [
+                5,
+                "dance party"
+            ],
+            [
+                5,
+                "daft punk"
+            ],
+            [
+                5,
+                "dfa"
+            ],
+            [
+                4,
+                "disco"
+            ],
+            [
+                4,
+                "seen live"
+            ],
+            [
+                4,
+                "house"
+            ],
+            [
+                4,
+                "funky"
+            ],
+            [
+                4,
+                "hand claps"
+            ],
+            [
+                4,
+                "more cowbell"
+            ],
+            [
+                4,
+                "american"
+            ],
+            [
+                4,
+                "bouncy"
+            ],
+            [
+                4,
+                "dancefloor"
+            ],
+            [
+                4,
+                "amayzes loved"
+            ]
+        ]
+    ],
+    [
+        "Hungry (For Love)",
+        "LF System",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        2,
+        []
+    ],
+    [
         "Groovejet (If This Ain't Love)",
         "LOSTBOYJAY",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -1989,16 +1502,186 @@
         []
     ],
     [
-        "Deep Inside",
-        "Maur",
+        "Daydreamin' (feat. Jill Scott)",
+        "Lupe Fiasco",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         2,
         [
             [
                 100,
-                "melodictechno"
+                "hip-hop"
+            ],
+            [
+                40,
+                "hip hop"
+            ],
+            [
+                20,
+                "chill"
+            ],
+            [
+                10,
+                "alternative"
+            ],
+            [
+                10,
+                "rap"
+            ],
+            [
+                10,
+                "trip hop"
+            ],
+            [
+                10,
+                "samples"
+            ],
+            [
+                10,
+                "favourites"
+            ],
+            [
+                10,
+                "drugs"
+            ],
+            [
+                10,
+                "neo-soul"
+            ],
+            [
+                10,
+                "pop rap"
+            ],
+            [
+                10,
+                "jazz pop"
+            ],
+            [
+                10,
+                "collaborations"
+            ],
+            [
+                10,
+                "shazam"
+            ],
+            [
+                10,
+                "jill scott"
+            ],
+            [
+                10,
+                "chill rap"
+            ],
+            [
+                10,
+                "wish"
+            ],
+            [
+                10,
+                "cool down"
+            ],
+            [
+                10,
+                "very cool"
+            ],
+            [
+                10,
+                "lupe"
+            ],
+            [
+                10,
+                "nice track"
+            ],
+            [
+                10,
+                "the singles"
+            ],
+            [
+                10,
+                "soul-hip-hop"
             ]
         ]
+    ],
+    [
+        "And 1",
+        "Melé",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        2,
+        []
+    ],
+    [
+        "Судно (Борис Рижий)",
+        "Molchat Doma",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        2,
+        [
+            [
+                100,
+                "post-punk"
+            ],
+            [
+                84,
+                "coldwave"
+            ],
+            [
+                50,
+                "darkwave"
+            ],
+            [
+                34,
+                "punk"
+            ],
+            [
+                34,
+                "russian"
+            ],
+            [
+                34,
+                "synthpop"
+            ],
+            [
+                34,
+                "gothic rock"
+            ],
+            [
+                34,
+                "dance-punk"
+            ],
+            [
+                34,
+                "myspotigrambot"
+            ],
+            [
+                17,
+                "rock"
+            ],
+            [
+                17,
+                "dark"
+            ],
+            [
+                17,
+                "new wave"
+            ],
+            [
+                17,
+                "belarus"
+            ],
+            [
+                17,
+                "doomerwave"
+            ],
+            [
+                17,
+                "post-punk ruso"
+            ]
+        ]
+    ],
+    [
+        "Mr. Sandman",
+        "Oppidan",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        2,
+        []
     ],
     [
         "The Way I Are",
@@ -2008,25 +1691,68 @@
         []
     ],
     [
-        "Boyz N Da Club - Radio Edit",
-        "Shermanology",
+        "Call On Me (with Tove Lo)",
+        "SG Lewis",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         2,
         []
     ],
     [
-        "mr useless - MK remix",
-        "Shygirl",
+        "Different Light",
+        "SG Lewis",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        2,
+        []
+    ],
+    [
+        "Murder on the Dancefloor",
+        "Sophie Ellis-Bextor",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         2,
         [
             [
                 100,
+                "pop"
+            ],
+            [
+                85,
+                "dance"
+            ],
+            [
+                40,
+                "disco"
+            ],
+            [
+                31,
+                "british"
+            ],
+            [
+                12,
+                "electronic"
+            ],
+            [
+                8,
+                "party"
+            ],
+            [
+                7,
+                "dance-pop"
+            ],
+            [
+                5,
+                "female"
+            ],
+            [
+                5,
+                "britpop"
+            ],
+            [
+                4,
                 "house"
             ],
             [
-                100,
-                "deep house"
+                4,
+                "sexy"
             ]
         ]
     ],
@@ -2130,8 +1856,8 @@
         []
     ],
     [
-        "We Need Jungle (I'm afraid)",
-        "Venjent",
+        "Sweet Disposition",
+        "Waypoint",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         2,
         []
@@ -2329,278 +2055,6 @@
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
-    ],
-    [
-        "Pasilda - Knee Deep Mix",
-        "Afro Medusa",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "house"
-            ],
-            [
-                100,
-                "latin house"
-            ]
-        ]
-    ],
-    [
-        "Crying At the Discoteque - Radio Edit",
-        "Alcazar",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "disco"
-            ],
-            [
-                100,
-                "electronic"
-            ],
-            [
-                100,
-                "pop"
-            ],
-            [
-                100,
-                "dance"
-            ],
-            [
-                100,
-                "dance-pop"
-            ],
-            [
-                100,
-                "eurodance"
-            ],
-            [
-                100,
-                "nu disco"
-            ],
-            [
-                100,
-                "euro-disco"
-            ],
-            [
-                100,
-                "disco tag"
-            ],
-            [
-                100,
-                "a artist"
-            ]
-        ]
-    ],
-    [
-        "Mr. Saxobeat",
-        "Alexandra Stan",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "dance"
-            ],
-            [
-                65,
-                "party"
-            ],
-            [
-                57,
-                "pop"
-            ],
-            [
-                33,
-                "house"
-            ],
-            [
-                25,
-                "romanian"
-            ],
-            [
-                13,
-                "saxophone"
-            ],
-            [
-                9,
-                "electronic"
-            ],
-            [
-                7,
-                "eurodance"
-            ],
-            [
-                7,
-                "alexandra stan"
-            ],
-            [
-                5,
-                "disco"
-            ],
-            [
-                5,
-                "electronica"
-            ],
-            [
-                5,
-                "electropop"
-            ],
-            [
-                5,
-                "catchy"
-            ],
-            [
-                5,
-                "dance pop"
-            ],
-            [
-                5,
-                "clubbing"
-            ],
-            [
-                4,
-                "chill"
-            ],
-            [
-                4,
-                "sexy"
-            ],
-            [
-                4,
-                "techno"
-            ],
-            [
-                4,
-                "club"
-            ],
-            [
-                4,
-                "love it"
-            ],
-            [
-                4,
-                "romania"
-            ],
-            [
-                4,
-                "dancedance"
-            ],
-            [
-                4,
-                "saxobeat"
-            ],
-            [
-                4,
-                "my dance room"
-            ]
-        ]
-    ],
-    [
-        "Happiness",
-        "Alexis Jordan",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "pop"
-            ],
-            [
-                92,
-                "dance"
-            ],
-            [
-                50,
-                "alexis jordan"
-            ],
-            [
-                26,
-                "rnb"
-            ],
-            [
-                25,
-                "electronica"
-            ],
-            [
-                15,
-                "catchy"
-            ],
-            [
-                12,
-                "happiness"
-            ],
-            [
-                10,
-                "electropop"
-            ],
-            [
-                10,
-                "stargate"
-            ],
-            [
-                7,
-                "electronic"
-            ],
-            [
-                5,
-                "trance"
-            ],
-            [
-                5,
-                "female vocal"
-            ],
-            [
-                4,
-                "hip-hop"
-            ],
-            [
-                4,
-                "love"
-            ],
-            [
-                4,
-                "cute"
-            ],
-            [
-                4,
-                "dance-pop"
-            ],
-            [
-                4,
-                "house"
-            ],
-            [
-                4,
-                "club"
-            ],
-            [
-                4,
-                "party"
-            ],
-            [
-                4,
-                "dance pop"
-            ],
-            [
-                4,
-                "jordan"
-            ],
-            [
-                4,
-                "pop music"
-            ],
-            [
-                4,
-                "electrosoul"
-            ],
-            [
-                4,
-                "pop music tag"
-            ]
-        ]
     ],
     [
         "Kaleidoscope Love",
@@ -2936,8 +2390,8 @@
         ]
     ],
     [
-        "Here With Me",
-        "ATrip",
+        "Friday (Alone Right Now)",
+        "ATRIP",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
@@ -2945,6 +2399,13 @@
     [
         "Kennel War",
         "Axtion",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        []
+    ],
+    [
+        "Different",
+        "Barry Can't Swim",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
@@ -3421,45 +2882,11 @@
         []
     ],
     [
-        "Funky Feeling",
-        "Bellaire",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
-        "Zero to Hero",
-        "BENEE",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
         "El Cañonero",
         "Beny Moré",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
-    ],
-    [
-        "Watch Me",
-        "Biig Piig",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "electronic"
-            ],
-            [
-                100,
-                "indie"
-            ],
-            [
-                100,
-                "irish"
-            ]
-        ]
     ],
     [
         "Money Money - MistaJam Remix",
@@ -3499,13 +2926,6 @@
                 "my scribbled"
             ]
         ]
-    ],
-    [
-        "Save Our Soul - Rework 2021",
-        "Bob Sinclar",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
     ],
     [
         "World Hold On - FISHER Rework",
@@ -3768,13 +3188,6 @@
         []
     ],
     [
-        "Stay High again.. (Fred again.. & Joy Anonymous Version)",
-        "Brittany Howard",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
         "Summer of '69",
         "Bryan Adams",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -3939,13 +3352,6 @@
         ]
     ],
     [
-        "All My Friends",
-        "Channel Tres",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
         "BACKBONE",
         "Chase & Status",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -4023,59 +3429,18 @@
         []
     ],
     [
-        "BANG",
-        "Cobrah",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "poptron"
-            ]
-        ]
-    ],
-    [
-        "FEMININE ENERGY",
-        "Cobrah",
+        "TUNNEL VISION",
+        "Clouder",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
     ],
     [
-        "GOOD PUSS",
-        "Cobrah",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "dance"
-            ],
-            [
-                100,
-                "edm"
-            ],
-            [
-                100,
-                "hip house"
-            ],
-            [
-                100,
-                "poptron"
-            ]
-        ]
-    ],
-    [
-        "SO WHAT",
+        "On & On (Again) - Edit",
         "Confidence Man",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
-        [
-            [
-                100,
-                "the prodigy"
-            ]
-        ]
+        []
     ],
     [
         "Runnin",
@@ -4335,18 +3700,143 @@
         []
     ],
     [
-        "Thank You (Not So Bad)",
-        "Dimitri Vegas & Like Mike",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
         "China Town",
         "Distinkt",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
+    ],
+    [
+        "Bassline Junkie",
+        "Dizzee Rascal",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        [
+            [
+                100,
+                "bassline"
+            ],
+            [
+                50,
+                "british"
+            ],
+            [
+                50,
+                "grime"
+            ],
+            [
+                50,
+                "garage"
+            ],
+            [
+                50,
+                "funny"
+            ],
+            [
+                50,
+                "uk hip-hop"
+            ],
+            [
+                50,
+                "uk garage"
+            ],
+            [
+                50,
+                "comedy rap"
+            ],
+            [
+                50,
+                "comedy hip-hop"
+            ]
+        ]
+    ],
+    [
+        "Bonkers",
+        "Dizzee Rascal",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        [
+            [
+                100,
+                "pierdolniecie"
+            ],
+            [
+                25,
+                "hip-hop"
+            ],
+            [
+                14,
+                "grime"
+            ],
+            [
+                13,
+                "electropop"
+            ],
+            [
+                11,
+                "electronic"
+            ],
+            [
+                10,
+                "electro"
+            ],
+            [
+                8,
+                "british"
+            ],
+            [
+                8,
+                "rap"
+            ],
+            [
+                8,
+                "elektro"
+            ],
+            [
+                5,
+                "dance"
+            ],
+            [
+                5,
+                "house"
+            ],
+            [
+                5,
+                "party"
+            ],
+            [
+                5,
+                "infectious"
+            ],
+            [
+                5,
+                "madness"
+            ],
+            [
+                5,
+                "bonkers"
+            ],
+            [
+                4,
+                "pop"
+            ],
+            [
+                4,
+                "crazy"
+            ],
+            [
+                4,
+                "fun"
+            ],
+            [
+                4,
+                "male vocalists"
+            ],
+            [
+                4,
+                "pierdolniencie"
+            ]
+        ]
     ],
     [
         "Limb By Limb",
@@ -4490,6 +3980,13 @@
         []
     ],
     [
+        "Now U Do - Edit",
+        "DJ Seinfeld",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        []
+    ],
+    [
         "Glitter",
         "DJ Zinc",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -4497,15 +3994,15 @@
         []
     ],
     [
-        "Saving Up",
+        "Saving Up - Loods Remix",
         "Dom Dolla",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
     ],
     [
-        "Saving Up - Loods Remix",
-        "Dom Dolla",
+        "In My Room (feat. SHELLS)",
+        "Dombresky",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
@@ -4537,38 +4034,6 @@
             [
                 100,
                 "neuro"
-            ]
-        ]
-    ],
-    [
-        "Look - All Night Mix",
-        "Doss",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "dance"
-            ],
-            [
-                100,
-                "house"
-            ],
-            [
-                100,
-                "electro house"
-            ],
-            [
-                100,
-                "club"
-            ],
-            [
-                100,
-                "party"
-            ],
-            [
-                100,
-                "edm"
             ]
         ]
     ],
@@ -4617,186 +4082,6 @@
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
-    ],
-    [
-        "Ghost",
-        "Ella Henderson",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "pop"
-            ],
-            [
-                46,
-                "british"
-            ],
-            [
-                37,
-                "ryan tedder"
-            ],
-            [
-                28,
-                "soul"
-            ],
-            [
-                19,
-                "halloween"
-            ],
-            [
-                19,
-                "uk number one"
-            ],
-            [
-                10,
-                "chillout"
-            ],
-            [
-                10,
-                "electronic"
-            ],
-            [
-                10,
-                "chill"
-            ],
-            [
-                10,
-                "dance"
-            ],
-            [
-                10,
-                "happy"
-            ],
-            [
-                10,
-                "blue-eyed soul"
-            ],
-            [
-                10,
-                "world"
-            ],
-            [
-                10,
-                "feel good"
-            ],
-            [
-                10,
-                "vocals"
-            ],
-            [
-                10,
-                "dope"
-            ],
-            [
-                10,
-                "world music"
-            ],
-            [
-                10,
-                "dance pop"
-            ],
-            [
-                10,
-                "hits"
-            ],
-            [
-                10,
-                "pain"
-            ],
-            [
-                10,
-                "poison"
-            ],
-            [
-                10,
-                "haunted"
-            ],
-            [
-                10,
-                "letterman"
-            ],
-            [
-                10,
-                "fallon"
-            ],
-            [
-                10,
-                "teen pop"
-            ],
-            [
-                10,
-                "demons"
-            ],
-            [
-                10,
-                "sunflower"
-            ],
-            [
-                10,
-                "struggle"
-            ],
-            [
-                10,
-                "female voice"
-            ],
-            [
-                10,
-                "charts"
-            ],
-            [
-                10,
-                "one hit wonder"
-            ],
-            [
-                10,
-                "one-hit wonder"
-            ],
-            [
-                10,
-                "radio disney"
-            ],
-            [
-                10,
-                "wake-up song"
-            ],
-            [
-                10,
-                "rnb influences"
-            ],
-            [
-                10,
-                "the x factor"
-            ],
-            [
-                10,
-                "talent show"
-            ],
-            [
-                10,
-                "a major"
-            ],
-            [
-                10,
-                "kiss my ass"
-            ],
-            [
-                10,
-                "meyers"
-            ],
-            [
-                10,
-                "my dance room"
-            ],
-            [
-                10,
-                "ella henderson"
-            ],
-            [
-                10,
-                "ziontwan"
-            ]
-        ]
     ],
     [
         "Burn",
@@ -4951,219 +4236,11 @@
         ]
     ],
     [
-        "Pump It Up - 2021 Remaster",
-        "Elvis Costello & The Attractions",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "new wave"
-            ],
-            [
-                67,
-                "power pop"
-            ],
-            [
-                67,
-                "glam punk"
-            ],
-            [
-                34,
-                "faves"
-            ]
-        ]
-    ],
-    [
         "Infusion",
         "Evgeny Bardyuzha",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
-    ],
-    [
-        "Groove Thang",
-        "Ewan McVicar",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "party"
-            ]
-        ]
-    ],
-    [
-        "Changed The Way You Kiss Me",
-        "Example",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "dance"
-            ],
-            [
-                79,
-                "electronic"
-            ],
-            [
-                67,
-                "electro house"
-            ],
-            [
-                64,
-                "british"
-            ],
-            [
-                13,
-                "pop"
-            ],
-            [
-                10,
-                "hip-hop"
-            ],
-            [
-                10,
-                "indie"
-            ],
-            [
-                10,
-                "electro"
-            ],
-            [
-                10,
-                "party"
-            ],
-            [
-                10,
-                "male vocalists"
-            ],
-            [
-                10,
-                "example"
-            ],
-            [
-                7,
-                "electronica"
-            ],
-            [
-                7,
-                "hip hop"
-            ],
-            [
-                7,
-                "bass"
-            ],
-            [
-                7,
-                "summer"
-            ],
-            [
-                4,
-                "sexy"
-            ],
-            [
-                4,
-                "memories"
-            ],
-            [
-                4,
-                "techno"
-            ],
-            [
-                4,
-                "house"
-            ],
-            [
-                4,
-                "upbeat"
-            ],
-            [
-                4,
-                "like"
-            ],
-            [
-                4,
-                "english"
-            ],
-            [
-                4,
-                "running"
-            ],
-            [
-                4,
-                "fuckin genius"
-            ],
-            [
-                4,
-                "eargasm"
-            ],
-            [
-                4,
-                "instant hardon"
-            ],
-            [
-                4,
-                "apple"
-            ],
-            [
-                4,
-                "neverland"
-            ],
-            [
-                4,
-                "alphaville"
-            ],
-            [
-                4,
-                "future pop"
-            ],
-            [
-                4,
-                "list"
-            ],
-            [
-                4,
-                "uk number one"
-            ],
-            [
-                4,
-                "crowd pleaser"
-            ],
-            [
-                4,
-                "eng"
-            ],
-            [
-                4,
-                "graham norton"
-            ],
-            [
-                4,
-                "hen party"
-            ],
-            [
-                4,
-                "justinbieber"
-            ],
-            [
-                4,
-                "club mood"
-            ],
-            [
-                4,
-                "drive mood"
-            ],
-            [
-                4,
-                "energetic mood"
-            ],
-            [
-                4,
-                "house bruno"
-            ]
-        ]
     ],
     [
         "Mass Destruction - Single Version",
@@ -5191,37 +4268,6 @@
                 "big music"
             ]
         ]
-    ],
-    [
-        "Role Model",
-        "Fatboy Slim",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "electronic"
-            ],
-            [
-                100,
-                "british"
-            ],
-            [
-                100,
-                "dance"
-            ],
-            [
-                100,
-                "house"
-            ]
-        ]
-    ],
-    [
-        "Stay",
-        "Fisher",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
     ],
     [
         "Dreams - 2004 Remaster",
@@ -5307,11 +4353,31 @@
             ],
             [
                 50,
+                "chill"
+            ],
+            [
+                50,
+                "instrumental"
+            ],
+            [
+                50,
+                "spoken"
+            ],
+            [
+                50,
                 "soft rock"
             ],
             [
                 50,
+                "soft"
+            ],
+            [
+                50,
                 "synth-pop"
+            ],
+            [
+                50,
+                "moderate"
             ],
             [
                 50,
@@ -5324,70 +4390,6 @@
             [
                 50,
                 "my scribbled"
-            ]
-        ]
-    ],
-    [
-        "Sax",
-        "Fleur East",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "pop"
-            ],
-            [
-                50,
-                "british"
-            ],
-            [
-                50,
-                "dance"
-            ],
-            [
-                50,
-                "funk"
-            ],
-            [
-                50,
-                "sax"
-            ],
-            [
-                50,
-                "saxophone"
-            ],
-            [
-                50,
-                "trumpet"
-            ],
-            [
-                50,
-                "party"
-            ],
-            [
-                50,
-                "x factor"
-            ],
-            [
-                50,
-                "played"
-            ],
-            [
-                50,
-                "wake-up song"
-            ],
-            [
-                50,
-                "the x factor"
-            ],
-            [
-                50,
-                "talent show"
-            ],
-            [
-                50,
-                "f artist"
             ]
         ]
     ],
@@ -5692,126 +4694,6 @@
         ]
     ],
     [
-        "I Cry",
-        "Flo Rida",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "hip-hop"
-            ],
-            [
-                94,
-                "dance"
-            ],
-            [
-                87,
-                "hip hop"
-            ],
-            [
-                60,
-                "flo rida"
-            ],
-            [
-                40,
-                "chart"
-            ],
-            [
-                27,
-                "american"
-            ],
-            [
-                14,
-                "electronic"
-            ],
-            [
-                14,
-                "pop"
-            ],
-            [
-                14,
-                "rap"
-            ],
-            [
-                14,
-                "song"
-            ],
-            [
-                7,
-                "love"
-            ],
-            [
-                7,
-                "house"
-            ],
-            [
-                7,
-                "party"
-            ],
-            [
-                7,
-                "billboard"
-            ],
-            [
-                7,
-                "must have"
-            ],
-            [
-                7,
-                "hip pop"
-            ],
-            [
-                7,
-                "e minor"
-            ],
-            [
-                7,
-                "wake-up song"
-            ],
-            [
-                7,
-                "club rap roots"
-            ],
-            [
-                7,
-                "rnb influences"
-            ],
-            [
-                7,
-                "thesis"
-            ],
-            [
-                7,
-                "swwg"
-            ],
-            [
-                7,
-                "superpop"
-            ],
-            [
-                7,
-                "seen clip"
-            ],
-            [
-                7,
-                "kdwb"
-            ],
-            [
-                7,
-                "long workout"
-            ],
-            [
-                7,
-                "i cry - fr"
-            ],
-            [
-                7,
-                "worksafe"
-            ]
-        ]
-    ],
-    [
         "Black Bandana",
         "foor",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -6034,118 +4916,6 @@
         []
     ],
     [
-        "I Love It (feat. Charli XCX)",
-        "Icona Pop",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "dance"
-            ],
-            [
-                92,
-                "pop"
-            ],
-            [
-                49,
-                "electro house"
-            ],
-            [
-                34,
-                "electronic"
-            ],
-            [
-                34,
-                "electropop"
-            ],
-            [
-                32,
-                "electronica"
-            ],
-            [
-                27,
-                "charli xcx"
-            ],
-            [
-                25,
-                "swedish"
-            ],
-            [
-                18,
-                "synthpop"
-            ],
-            [
-                16,
-                "icona pop"
-            ],
-            [
-                14,
-                "dance-pop"
-            ],
-            [
-                12,
-                "party"
-            ],
-            [
-                9,
-                "love"
-            ],
-            [
-                9,
-                "sunflower"
-            ],
-            [
-                9,
-                "my dance room"
-            ],
-            [
-                7,
-                "indie"
-            ],
-            [
-                7,
-                "i love it"
-            ],
-            [
-                7,
-                "poptron"
-            ],
-            [
-                5,
-                "electro"
-            ],
-            [
-                5,
-                "synth pop"
-            ],
-            [
-                5,
-                "dance pop"
-            ],
-            [
-                5,
-                "nostalgia"
-            ],
-            [
-                5,
-                "eletronic"
-            ],
-            [
-                5,
-                "anthem"
-            ],
-            [
-                5,
-                "dancefloor"
-            ],
-            [
-                5,
-                "video clip"
-            ]
-        ]
-    ],
-    [
         "Goodbye - James Hype Remix",
         "Imanbek",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -6160,44 +4930,11 @@
         []
     ],
     [
-        "Sun Is Up - Play & Win Radio Edit",
-        "Inna",
+        "No Time (feat. SadBoi)",
+        "Interplanetary Criminal",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
-        [
-            [
-                100,
-                "pop"
-            ],
-            [
-                100,
-                "dance"
-            ],
-            [
-                50,
-                "sun"
-            ],
-            [
-                50,
-                "carmen electra"
-            ],
-            [
-                50,
-                "anelia"
-            ],
-            [
-                50,
-                "okay i guess"
-            ],
-            [
-                50,
-                "daphne rosen"
-            ],
-            [
-                50,
-                "if you say so"
-            ]
-        ]
+        []
     ],
     [
         "Sweets",
@@ -6207,184 +4944,8 @@
         []
     ],
     [
-        "Angel of My Dreams",
-        "Jade",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "electropop"
-            ],
-            [
-                75,
-                "pop"
-            ],
-            [
-                63,
-                "synthpop"
-            ],
-            [
-                50,
-                "dance-pop"
-            ],
-            [
-                38,
-                "electroclash"
-            ],
-            [
-                38,
-                "electro house"
-            ],
-            [
-                25,
-                "rnb"
-            ],
-            [
-                25,
-                "masterpiece"
-            ],
-            [
-                25,
-                "art pop"
-            ],
-            [
-                25,
-                "pop perfection"
-            ],
-            [
-                13,
-                "electronic"
-            ],
-            [
-                13,
-                "electronica"
-            ],
-            [
-                13,
-                "dance"
-            ],
-            [
-                13,
-                "house"
-            ],
-            [
-                13,
-                "drum and bass"
-            ],
-            [
-                13,
-                "scary"
-            ],
-            [
-                13,
-                "progressive"
-            ],
-            [
-                13,
-                "introspective"
-            ],
-            [
-                13,
-                "excellent"
-            ],
-            [
-                13,
-                "amazing"
-            ],
-            [
-                13,
-                "emotional"
-            ],
-            [
-                13,
-                "bittersweet"
-            ],
-            [
-                13,
-                "eclectic"
-            ],
-            [
-                13,
-                "dance pop"
-            ],
-            [
-                13,
-                "jam"
-            ],
-            [
-                13,
-                "angel"
-            ],
-            [
-                13,
-                "synth-pop"
-            ],
-            [
-                13,
-                "incredible"
-            ],
-            [
-                13,
-                "jade"
-            ],
-            [
-                13,
-                "sentimental"
-            ],
-            [
-                13,
-                "electro-house"
-            ],
-            [
-                13,
-                "iconic"
-            ],
-            [
-                13,
-                "ate"
-            ],
-            [
-                13,
-                "talent show"
-            ],
-            [
-                13,
-                "porra"
-            ],
-            [
-                13,
-                "morta"
-            ],
-            [
-                13,
-                "my top songs"
-            ],
-            [
-                13,
-                "meu deus"
-            ],
-            [
-                13,
-                "crise"
-            ],
-            [
-                13,
-                "tulla luana"
-            ],
-            [
-                13,
-                "innacore"
-            ],
-            [
-                13,
-                "pariscore"
-            ]
-        ]
-    ],
-    [
-        "Angel of My Dreams - FOR THE CLUB",
-        "Jade",
+        "Nights Like These",
+        "Jake Shore",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
@@ -6484,39 +5045,56 @@
         ]
     ],
     [
-        "Lose My Mind - LF System Remix",
+        "Lose My Mind",
         "Jamie Jones",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
-        []
+        [
+            [
+                100,
+                "house"
+            ],
+            [
+                100,
+                "nu disco"
+            ]
+        ]
     ],
     [
-        "Little L - Enzo Edit",
-        "Jamiroquai",
+        "Waited All Night",
+        "Jamie xx",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
-        []
-    ],
-    [
-        "Feel It",
-        "Jauz",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
-        "Whistle (feat. Calum Scott)",
-        "Jax Jones",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
-        "Da Feeling",
-        "Jengi",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
+        [
+            [
+                100,
+                "electronic"
+            ],
+            [
+                100,
+                "breaks"
+            ],
+            [
+                100,
+                "rnb"
+            ],
+            [
+                100,
+                "uk bass"
+            ],
+            [
+                100,
+                "edm"
+            ],
+            [
+                100,
+                "future garage"
+            ],
+            [
+                100,
+                "uk garage"
+            ]
+        ]
     ],
     [
         "Hold My Hand",
@@ -6635,147 +5213,115 @@
         ]
     ],
     [
-        "Domino",
-        "Jessie J",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "pop"
-            ],
-            [
-                69,
-                "dance"
-            ],
-            [
-                45,
-                "pop rock"
-            ],
-            [
-                28,
-                "domino"
-            ],
-            [
-                20,
-                "jessie j"
-            ],
-            [
-                16,
-                "british"
-            ],
-            [
-                14,
-                "happy"
-            ],
-            [
-                12,
-                "party"
-            ],
-            [
-                11,
-                "electronic"
-            ],
-            [
-                11,
-                "catchy"
-            ],
-            [
-                7,
-                "love"
-            ],
-            [
-                7,
-                "energetic"
-            ],
-            [
-                7,
-                "rnb"
-            ],
-            [
-                7,
-                "play it loud"
-            ],
-            [
-                6,
-                "amazing"
-            ],
-            [
-                6,
-                "powerful"
-            ],
-            [
-                6,
-                "explode"
-            ],
-            [
-                6,
-                "dr luke"
-            ],
-            [
-                6,
-                "full beat"
-            ],
-            [
-                4,
-                "electropop"
-            ],
-            [
-                4,
-                "sexy"
-            ],
-            [
-                4,
-                "beautiful"
-            ],
-            [
-                4,
-                "awesome"
-            ],
-            [
-                4,
-                "guitar"
-            ],
-            [
-                4,
-                "fun"
-            ],
-            [
-                4,
-                "powerpop"
-            ],
-            [
-                4,
-                "max martin"
-            ],
-            [
-                4,
-                "katy perry"
-            ],
-            [
-                4,
-                "uk number one"
-            ],
-            [
-                4,
-                "the singles"
-            ],
-            [
-                4,
-                "who you are"
-            ],
-            [
-                4,
-                "love jessie j"
-            ]
-        ]
-    ],
-    [
         "Freak Me Now (with Róisín Murphy) - Bklava Remix",
         "Jessie Ware",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
+    ],
+    [
+        "The Cat",
+        "Jimmy Smith",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        [
+            [
+                100,
+                "jazz"
+            ],
+            [
+                54,
+                "funk"
+            ],
+            [
+                47,
+                "organ"
+            ],
+            [
+                42,
+                "hammond"
+            ],
+            [
+                30,
+                "groove"
+            ],
+            [
+                17,
+                "jimmy smith"
+            ],
+            [
+                14,
+                "hammond organ"
+            ],
+            [
+                10,
+                "blue note"
+            ],
+            [
+                9,
+                "soul"
+            ],
+            [
+                9,
+                "amayzes loved"
+            ],
+            [
+                9,
+                "mod jazz"
+            ],
+            [
+                7,
+                "instrumental"
+            ],
+            [
+                7,
+                "blues"
+            ],
+            [
+                7,
+                "groovy"
+            ],
+            [
+                5,
+                "funky"
+            ],
+            [
+                5,
+                "cat"
+            ],
+            [
+                5,
+                "jazzattack"
+            ],
+            [
+                4,
+                "easy listening"
+            ],
+            [
+                4,
+                "cinematic"
+            ],
+            [
+                4,
+                "favorite"
+            ],
+            [
+                4,
+                "animals"
+            ],
+            [
+                4,
+                "cats"
+            ],
+            [
+                4,
+                "cooking"
+            ],
+            [
+                4,
+                "play it loud"
+            ]
+        ]
     ],
     [
         "What A Life",
@@ -7038,246 +5584,6 @@
         ]
     ],
     [
-        "Tension",
-        "Kylie Minogue",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "house"
-            ],
-            [
-                75,
-                "pop"
-            ],
-            [
-                75,
-                "dance-pop"
-            ],
-            [
-                75,
-                "diva house"
-            ],
-            [
-                50,
-                "electronic"
-            ],
-            [
-                25,
-                "sexy"
-            ],
-            [
-                25,
-                "electro"
-            ],
-            [
-                25,
-                "dance"
-            ],
-            [
-                25,
-                "australian"
-            ],
-            [
-                25,
-                "techno"
-            ],
-            [
-                25,
-                "electro house"
-            ],
-            [
-                25,
-                "party"
-            ],
-            [
-                25,
-                "deep house"
-            ],
-            [
-                25,
-                "dance pop"
-            ],
-            [
-                25,
-                "euro house"
-            ],
-            [
-                25,
-                "piano house"
-            ],
-            [
-                25,
-                "pop perfection"
-            ],
-            [
-                25,
-                "post-disco"
-            ],
-            [
-                25,
-                "brazilian bass"
-            ],
-            [
-                25,
-                "slap house"
-            ],
-            [
-                25,
-                "my scribbled"
-            ]
-        ]
-    ],
-    [
-        "Applause",
-        "Lady Gaga",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "pop"
-            ],
-            [
-                75,
-                "dance"
-            ],
-            [
-                71,
-                "artpop"
-            ],
-            [
-                44,
-                "electropop"
-            ],
-            [
-                35,
-                "applause"
-            ],
-            [
-                31,
-                "lady gaga"
-            ],
-            [
-                24,
-                "electronic"
-            ],
-            [
-                12,
-                "dance-pop"
-            ],
-            [
-                8,
-                "epic"
-            ],
-            [
-                8,
-                "gaga"
-            ],
-            [
-                7,
-                "catchy"
-            ],
-            [
-                7,
-                "american"
-            ],
-            [
-                7,
-                "perfect"
-            ],
-            [
-                6,
-                "electro house"
-            ],
-            [
-                6,
-                "amazing"
-            ],
-            [
-                6,
-                "slay"
-            ],
-            [
-                6,
-                "ladygaga"
-            ],
-            [
-                5,
-                "party"
-            ],
-            [
-                5,
-                "synthpop"
-            ],
-            [
-                5,
-                "dance pop"
-            ],
-            [
-                5,
-                "addictive"
-            ],
-            [
-                5,
-                "hitler"
-            ],
-            [
-                5,
-                "adolf hitler"
-            ],
-            [
-                5,
-                "bonehead"
-            ],
-            [
-                5,
-                "heil hitler"
-            ],
-            [
-                5,
-                "white powder"
-            ],
-            [
-                5,
-                "anticommunist"
-            ],
-            [
-                5,
-                "nazi kircore"
-            ],
-            [
-                5,
-                "nazi scumcore"
-            ],
-            [
-                4,
-                "sexy"
-            ],
-            [
-                4,
-                "electro"
-            ],
-            [
-                4,
-                "diva"
-            ],
-            [
-                4,
-                "eurodance"
-            ],
-            [
-                4,
-                "best song ever"
-            ],
-            [
-                4,
-                "eletronic"
-            ]
-        ]
-    ],
-    [
         "Bad Romance",
         "Lady Gaga",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -7406,102 +5712,6 @@
         ]
     ],
     [
-        "Telephone (feat. Beyoncé)",
-        "Lady Gaga",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "pop"
-            ],
-            [
-                81,
-                "dance"
-            ],
-            [
-                72,
-                "lady gaga"
-            ],
-            [
-                28,
-                "electropop"
-            ],
-            [
-                18,
-                "beyonce"
-            ],
-            [
-                16,
-                "electronic"
-            ],
-            [
-                12,
-                "telephone"
-            ],
-            [
-                8,
-                "fierce"
-            ],
-            [
-                7,
-                "tatu"
-            ],
-            [
-                7,
-                "party"
-            ],
-            [
-                7,
-                "catchy"
-            ],
-            [
-                5,
-                "epic"
-            ],
-            [
-                5,
-                "addictive"
-            ],
-            [
-                4,
-                "sexy"
-            ],
-            [
-                4,
-                "american"
-            ],
-            [
-                4,
-                "fun"
-            ],
-            [
-                4,
-                "gaga"
-            ],
-            [
-                4,
-                "dance-pop"
-            ],
-            [
-                4,
-                "rnb"
-            ],
-            [
-                4,
-                "killer chorus"
-            ],
-            [
-                4,
-                "dance pop"
-            ],
-            [
-                4,
-                "party time"
-            ]
-        ]
-    ],
-    [
         "Phenomenal Woman",
         "Laura Mvula",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -7520,13 +5730,6 @@
     [
         "Love Story - Radio Edit",
         "Layo & Bushwacka!",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
-        "Freak Like Me - Radio Edit",
-        "Lee Walker",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
@@ -7600,8 +5803,8 @@
         ]
     ],
     [
-        "Get Motivated ft. jstlbby",
-        "Lomalo",
+        "Unaware",
+        "Little Tin Frog",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
@@ -7633,106 +5836,6 @@
             [
                 100,
                 "steve lacy"
-            ]
-        ]
-    ],
-    [
-        "Daydreamin' (feat. Jill Scott)",
-        "Lupe Fiasco",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "hip-hop"
-            ],
-            [
-                40,
-                "hip hop"
-            ],
-            [
-                20,
-                "chill"
-            ],
-            [
-                10,
-                "alternative"
-            ],
-            [
-                10,
-                "rap"
-            ],
-            [
-                10,
-                "trip hop"
-            ],
-            [
-                10,
-                "samples"
-            ],
-            [
-                10,
-                "favourites"
-            ],
-            [
-                10,
-                "drugs"
-            ],
-            [
-                10,
-                "neo-soul"
-            ],
-            [
-                10,
-                "pop rap"
-            ],
-            [
-                10,
-                "jazz pop"
-            ],
-            [
-                10,
-                "collaborations"
-            ],
-            [
-                10,
-                "shazam"
-            ],
-            [
-                10,
-                "jill scott"
-            ],
-            [
-                10,
-                "chill rap"
-            ],
-            [
-                10,
-                "wish"
-            ],
-            [
-                10,
-                "cool down"
-            ],
-            [
-                10,
-                "very cool"
-            ],
-            [
-                10,
-                "lupe"
-            ],
-            [
-                10,
-                "nice track"
-            ],
-            [
-                10,
-                "the singles"
-            ],
-            [
-                10,
-                "soul-hip-hop"
             ]
         ]
     ],
@@ -7935,37 +6038,23 @@
         []
     ],
     [
-        "Day 'N' Night",
-        "Marlon Hoffstadt",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
-        "Do It Right",
-        "Martin Solveig",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
-        "Perfect (Exceeder) [Mix Cut] - Vocal Club Mix",
-        "Mason",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "electro house"
-            ]
-        ]
-    ],
-    [
         "Give It to Me - Full Vocal Mix",
         "Matt Sassari",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
+    ],
+    [
+        "Deep Inside",
+        "Maur",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        [
+            [
+                100,
+                "melodictechno"
+            ]
+        ]
     ],
     [
         "My Family - from \"The Addams Family\"",
@@ -7999,72 +6088,11 @@
         ]
     ],
     [
-        "Судно (Борис Рижий)",
-        "Molchat Doma",
+        "Arms",
+        "Model Man",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
-        [
-            [
-                100,
-                "post-punk"
-            ],
-            [
-                84,
-                "coldwave"
-            ],
-            [
-                50,
-                "darkwave"
-            ],
-            [
-                34,
-                "punk"
-            ],
-            [
-                34,
-                "russian"
-            ],
-            [
-                34,
-                "synthpop"
-            ],
-            [
-                34,
-                "gothic rock"
-            ],
-            [
-                34,
-                "dance-punk"
-            ],
-            [
-                34,
-                "myspotigrambot"
-            ],
-            [
-                17,
-                "rock"
-            ],
-            [
-                17,
-                "dark"
-            ],
-            [
-                17,
-                "new wave"
-            ],
-            [
-                17,
-                "belarus"
-            ],
-            [
-                17,
-                "doomerwave"
-            ],
-            [
-                17,
-                "post-punk ruso"
-            ]
-        ]
+        []
     ],
     [
         "Say My Name - Remix",
@@ -8086,126 +6114,11 @@
         ]
     ],
     [
-        "Unwritten",
-        "Natasha Bedingfield",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "pop"
-            ],
-            [
-                33,
-                "british"
-            ],
-            [
-                20,
-                "dance"
-            ],
-            [
-                12,
-                "unwritten"
-            ],
-            [
-                11,
-                "happy"
-            ],
-            [
-                10,
-                "britpop"
-            ],
-            [
-                8,
-                "female"
-            ],
-            [
-                8,
-                "rock"
-            ],
-            [
-                6,
-                "rnb"
-            ],
-            [
-                5,
-                "alternative"
-            ],
-            [
-                5,
-                "favorites"
-            ],
-            [
-                5,
-                "beautiful"
-            ],
-            [
-                5,
-                "inspirational"
-            ],
-            [
-                4,
-                "fun"
-            ],
-            [
-                4,
-                "optimistic"
-            ],
-            [
-                4,
-                "positive"
-            ],
-            [
-                4,
-                "catchy"
-            ],
-            [
-                4,
-                "uplifting"
-            ],
-            [
-                4,
-                "upbeat"
-            ],
-            [
-                4,
-                "the hills"
-            ]
-        ]
-    ],
-    [
-        "Everybody Loves The Sunshine",
-        "Netsky",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
         "Power",
         "Netsky",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
-    ],
-    [
-        "Off Wiv Ya Headz",
-        "Nia Archives",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "electronic"
-            ],
-            [
-                100,
-                "drum and bass"
-            ],
-            [
-                100,
-                "jungle"
-            ]
-        ]
     ],
     [
         "I Only Smoke When I Drink",
@@ -8803,13 +6716,6 @@
         ]
     ],
     [
-        "Shined On Me - Les Bisous Remix",
-        "Praise Cats",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
         "Out of My Head",
         "PreFeKt",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -8951,13 +6857,6 @@
     [
         "Disco Man",
         "Remi Wolf",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
-        "Real Love",
-        "Retrowaves",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
@@ -9141,11 +7040,28 @@
         []
     ],
     [
-        "All Over This Party - salute remix",
-        "Sans Soucis",
+        "If U Need It",
+        "Sammy Virji",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
-        []
+        [
+            [
+                100,
+                "garage"
+            ],
+            [
+                100,
+                "techhouse"
+            ],
+            [
+                100,
+                "acapella"
+            ],
+            [
+                100,
+                "woman"
+            ]
+        ]
     ],
     [
         "She's So Lovely",
@@ -9240,14 +7156,56 @@
         ]
     ],
     [
-        "Cry For You - UK Radio Edit",
-        "September",
+        "Call On Me (with Tove Lo) - SG's Dub Edit",
+        "SG Lewis",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
     ],
     [
-        "Different Light",
+        "Fever Dreamer (feat. Charlotte Day Wilson & Channel Tres)",
+        "SG Lewis",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        [
+            [
+                100,
+                "disco"
+            ],
+            [
+                100,
+                "dance-pop"
+            ]
+        ]
+    ],
+    [
+        "Fever Dreamer (feat. Charlotte Day Wilson & Channel Tres) - Edit",
+        "SG Lewis",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        []
+    ],
+    [
+        "Honest",
+        "SG Lewis",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        []
+    ],
+    [
+        "Lifetime",
+        "SG Lewis",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        [
+            [
+                100,
+                "nu disco"
+            ]
+        ]
+    ],
+    [
+        "Something About Your Love",
         "SG Lewis",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
@@ -9255,6 +7213,13 @@
     ],
     [
         "Badder",
+        "Shermanology",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        []
+    ],
+    [
+        "Boyz N Da Club - Radio Edit",
         "Shermanology",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
@@ -9277,47 +7242,20 @@
         ]
     ],
     [
-        "CLEO",
+        "mr useless - MK remix",
         "Shygirl",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         [
             [
                 100,
-                "electronica"
+                "house"
             ],
             [
                 100,
-                "dance"
-            ],
-            [
-                100,
-                "eurodance"
-            ],
-            [
-                100,
-                "dance pop"
-            ],
-            [
-                100,
-                "art pop"
-            ],
-            [
-                100,
-                "sex education"
-            ],
-            [
-                100,
-                "soty idgaf"
+                "deep house"
             ]
         ]
-    ],
-    [
-        "mr useless - extended",
-        "Shygirl",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
     ],
     [
         "Going Places",
@@ -9409,287 +7347,11 @@
         []
     ],
     [
-        "Remember (feat. Stevie Appleton)",
-        "Sonny Fodera",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "deep house"
-            ]
-        ]
-    ],
-    [
-        "Immaterial",
-        "Sophie",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "bubblegum bass"
-            ],
-            [
-                56,
-                "electronic"
-            ],
-            [
-                56,
-                "hyperpop"
-            ],
-            [
-                45,
-                "electropop"
-            ],
-            [
-                34,
-                "pop"
-            ],
-            [
-                34,
-                "dance"
-            ],
-            [
-                34,
-                "dance-pop"
-            ],
-            [
-                34,
-                "wonky"
-            ],
-            [
-                34,
-                "pc music"
-            ],
-            [
-                23,
-                "experimental"
-            ],
-            [
-                23,
-                "iconic"
-            ],
-            [
-                23,
-                "future house"
-            ],
-            [
-                12,
-                "electronica"
-            ],
-            [
-                12,
-                "bop"
-            ],
-            [
-                12,
-                "house"
-            ],
-            [
-                12,
-                "bass"
-            ],
-            [
-                12,
-                "camp"
-            ],
-            [
-                12,
-                "favorite"
-            ],
-            [
-                12,
-                "brilliant"
-            ],
-            [
-                12,
-                "anthem"
-            ],
-            [
-                12,
-                "edm"
-            ],
-            [
-                12,
-                "fire"
-            ],
-            [
-                12,
-                "avant-pop"
-            ],
-            [
-                12,
-                "banned"
-            ],
-            [
-                12,
-                "farts"
-            ],
-            [
-                12,
-                "fart"
-            ],
-            [
-                12,
-                "wes"
-            ],
-            [
-                12,
-                "farting"
-            ],
-            [
-                12,
-                "trannies"
-            ],
-            [
-                12,
-                "tranny"
-            ],
-            [
-                12,
-                "pride anthem"
-            ],
-            [
-                12,
-                "lgbtq"
-            ],
-            [
-                12,
-                "idj"
-            ],
-            [
-                12,
-                "lgbt anthem"
-            ],
-            [
-                12,
-                "trans anthem"
-            ],
-            [
-                12,
-                "myspotigrambot"
-            ]
-        ]
-    ],
-    [
         "Gold - Live",
         "Spandau Ballet",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
-    ],
-    [
-        "Groovejet (If This Ain't Love)",
-        "Spiller",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "dance"
-            ],
-            [
-                89,
-                "house"
-            ],
-            [
-                45,
-                "electronic"
-            ],
-            [
-                37,
-                "pop"
-            ],
-            [
-                31,
-                "party"
-            ],
-            [
-                25,
-                "electronica"
-            ],
-            [
-                20,
-                "chillout"
-            ],
-            [
-                14,
-                "club"
-            ],
-            [
-                14,
-                "funky house"
-            ],
-            [
-                12,
-                "chill"
-            ],
-            [
-                12,
-                "italian"
-            ],
-            [
-                9,
-                "disco"
-            ],
-            [
-                9,
-                "trance"
-            ],
-            [
-                9,
-                "techno"
-            ],
-            [
-                9,
-                "vocal house"
-            ],
-            [
-                6,
-                "love"
-            ],
-            [
-                6,
-                "dance-pop"
-            ],
-            [
-                6,
-                "lounge"
-            ],
-            [
-                6,
-                "eurodance"
-            ],
-            [
-                6,
-                "chill-out"
-            ],
-            [
-                6,
-                "italy"
-            ],
-            [
-                6,
-                "soulful house"
-            ],
-            [
-                6,
-                "disco house"
-            ],
-            [
-                6,
-                "sommer"
-            ],
-            [
-                6,
-                "dreaming"
-            ],
-            [
-                6,
-                "uk number one"
-            ]
-        ]
     ],
     [
         "Stuck in the Middle With You",
@@ -9952,22 +7614,6 @@
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
-    ],
-    [
-        "Serotonin Moonbeams",
-        "The Blessed Madonna",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "electronic"
-            ],
-            [
-                100,
-                "house"
-            ]
-        ]
     ],
     [
         "Rock the Casbah - remastered",
@@ -10346,190 +7992,6 @@
         ]
     ],
     [
-        "Chasing the Sun",
-        "The Wanted",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "pop"
-            ],
-            [
-                50,
-                "dance"
-            ],
-            [
-                46,
-                "the wanted"
-            ],
-            [
-                19,
-                "electronic"
-            ],
-            [
-                19,
-                "party"
-            ],
-            [
-                19,
-                "male vocalists"
-            ],
-            [
-                10,
-                "rock"
-            ],
-            [
-                10,
-                "pop rock"
-            ],
-            [
-                10,
-                "catchy"
-            ],
-            [
-                10,
-                "summer"
-            ],
-            [
-                10,
-                "boysband"
-            ],
-            [
-                10,
-                "now or never"
-            ],
-            [
-                10,
-                "camryn"
-            ],
-            [
-                10,
-                "keep it going"
-            ],
-            [
-                5,
-                "soundtrack"
-            ],
-            [
-                5,
-                "british"
-            ],
-            [
-                5,
-                "indie pop"
-            ],
-            [
-                5,
-                "love"
-            ],
-            [
-                5,
-                "dance-pop"
-            ],
-            [
-                5,
-                "amazing"
-            ],
-            [
-                5,
-                "loved"
-            ],
-            [
-                5,
-                "dance pop"
-            ],
-            [
-                5,
-                "boyband"
-            ],
-            [
-                5,
-                "sun"
-            ],
-            [
-                5,
-                "chasing"
-            ],
-            [
-                5,
-                "hit"
-            ],
-            [
-                5,
-                "the"
-            ],
-            [
-                5,
-                "flawless"
-            ],
-            [
-                5,
-                "golden"
-            ],
-            [
-                5,
-                "ice age"
-            ],
-            [
-                5,
-                "radio disney"
-            ],
-            [
-                5,
-                "makes me sing"
-            ],
-            [
-                5,
-                "summer hit"
-            ],
-            [
-                5,
-                "movie song"
-            ],
-            [
-                5,
-                "male group"
-            ],
-            [
-                5,
-                "g minor"
-            ],
-            [
-                5,
-                "luv this"
-            ],
-            [
-                5,
-                "malesinger"
-            ],
-            [
-                5,
-                "long workout"
-            ],
-            [
-                5,
-                "nathan sykes"
-            ],
-            [
-                5,
-                "thewanted"
-            ],
-            [
-                5,
-                "the wanted gif"
-            ],
-            [
-                5,
-                "nocna energia"
-            ],
-            [
-                5,
-                "uk number two"
-            ]
-        ]
-    ],
-    [
         "Baba O'Riley",
         "The Who",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -10609,353 +8071,6 @@
         []
     ],
     [
-        "Loneliness - Video Cut",
-        "Tomcraft",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
-        "Drive By",
-        "Train",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "pop"
-            ],
-            [
-                60,
-                "alternative"
-            ],
-            [
-                58,
-                "rock"
-            ],
-            [
-                52,
-                "pop rock"
-            ],
-            [
-                33,
-                "train"
-            ],
-            [
-                13,
-                "catchy"
-            ],
-            [
-                10,
-                "summer"
-            ],
-            [
-                7,
-                "happy"
-            ],
-            [
-                5,
-                "american"
-            ],
-            [
-                5,
-                "english"
-            ],
-            [
-                5,
-                "drive by"
-            ],
-            [
-                4,
-                "indie"
-            ],
-            [
-                4,
-                "folk"
-            ],
-            [
-                4,
-                "acoustic"
-            ],
-            [
-                4,
-                "easy listening"
-            ],
-            [
-                4,
-                "guitar"
-            ],
-            [
-                4,
-                "driving"
-            ],
-            [
-                4,
-                "upbeat"
-            ],
-            [
-                4,
-                "drive"
-            ],
-            [
-                4,
-                "addictive song"
-            ],
-            [
-                4,
-                "wake-up song"
-            ],
-            [
-                4,
-                "pop music tag"
-            ]
-        ]
-    ],
-    [
-        "Rush",
-        "Troye Sivan",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "house"
-            ],
-            [
-                78,
-                "pop"
-            ],
-            [
-                45,
-                "dance"
-            ],
-            [
-                34,
-                "electropop"
-            ],
-            [
-                34,
-                "dance-pop"
-            ],
-            [
-                34,
-                "party"
-            ],
-            [
-                34,
-                "funky house"
-            ],
-            [
-                34,
-                "euro house"
-            ],
-            [
-                23,
-                "electronic"
-            ],
-            [
-                23,
-                "australian"
-            ],
-            [
-                23,
-                "electro house"
-            ],
-            [
-                23,
-                "gay"
-            ],
-            [
-                23,
-                "edm"
-            ],
-            [
-                23,
-                "uk funky"
-            ],
-            [
-                23,
-                "lgbt"
-            ],
-            [
-                23,
-                "diva house"
-            ],
-            [
-                12,
-                "disco"
-            ],
-            [
-                12,
-                "male"
-            ],
-            [
-                12,
-                "repetitive"
-            ],
-            [
-                12,
-                "catchy"
-            ],
-            [
-                12,
-                "bop"
-            ],
-            [
-                12,
-                "synth"
-            ],
-            [
-                12,
-                "energetic"
-            ],
-            [
-                12,
-                "club"
-            ],
-            [
-                12,
-                "synthpop"
-            ],
-            [
-                12,
-                "amazing"
-            ],
-            [
-                12,
-                "deep house"
-            ],
-            [
-                12,
-                "australia"
-            ],
-            [
-                12,
-                "eurodance"
-            ],
-            [
-                12,
-                "dance pop"
-            ],
-            [
-                12,
-                "workout"
-            ],
-            [
-                12,
-                "jam"
-            ],
-            [
-                12,
-                "aussie"
-            ],
-            [
-                12,
-                "sensual"
-            ],
-            [
-                12,
-                "sexual"
-            ],
-            [
-                12,
-                "happy songs"
-            ],
-            [
-                12,
-                "eurodisco"
-            ],
-            [
-                12,
-                "rhythmic"
-            ],
-            [
-                12,
-                "fire"
-            ],
-            [
-                12,
-                "incredible"
-            ],
-            [
-                12,
-                "good music"
-            ],
-            [
-                12,
-                "hedonistic"
-            ],
-            [
-                12,
-                "house pop"
-            ],
-            [
-                12,
-                "gay sex"
-            ],
-            [
-                12,
-                "pedophilia"
-            ],
-            [
-                12,
-                "miley cyrus"
-            ],
-            [
-                12,
-                "garage house"
-            ],
-            [
-                12,
-                "wes"
-            ],
-            [
-                12,
-                "gay club"
-            ],
-            [
-                12,
-                "house-pop"
-            ],
-            [
-                12,
-                "lgbtq"
-            ],
-            [
-                12,
-                "pop-house"
-            ],
-            [
-                12,
-                "best new track"
-            ],
-            [
-                12,
-                "edm pop"
-            ],
-            [
-                12,
-                "alexcore"
-            ],
-            [
-                12,
-                "limmy"
-            ],
-            [
-                12,
-                "myspotigrambot"
-            ],
-            [
-                12,
-                "vrt thuis"
-            ],
-            [
-                12,
-                "tw twink"
-            ]
-        ]
-    ],
-    [
         "Justafeelin",
         "TwoGood",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -11003,13 +8118,6 @@
                 "art pop"
             ]
         ]
-    ],
-    [
-        "Sweet Disposition",
-        "Waypoint",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
     ],
     [
         "I'm Every Woman",
@@ -11068,42 +8176,6 @@
             [
                 5,
                 "woman power"
-            ]
-        ]
-    ],
-    [
-        "Say To Me",
-        "WHTKD",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "electronic"
-            ],
-            [
-                100,
-                "house"
-            ],
-            [
-                100,
-                "party"
-            ],
-            [
-                100,
-                "deep house"
-            ],
-            [
-                100,
-                "edm"
-            ],
-            [
-                100,
-                "future house"
-            ],
-            [
-                100,
-                "nocna energia"
             ]
         ]
     ],
@@ -11247,6 +8319,74 @@
             [
                 4,
                 "only you"
+            ]
+        ]
+    ],
+    [
+        "Owner of a Lonely Heart",
+        "Yes",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        [
+            [
+                100,
+                "classic rock"
+            ],
+            [
+                88,
+                "rock"
+            ],
+            [
+                47,
+                "yes"
+            ],
+            [
+                16,
+                "british"
+            ],
+            [
+                14,
+                "pop"
+            ],
+            [
+                11,
+                "progressive"
+            ],
+            [
+                8,
+                "pop rock"
+            ],
+            [
+                7,
+                "hard rock"
+            ],
+            [
+                6,
+                "art rock"
+            ],
+            [
+                6,
+                "new wave"
+            ],
+            [
+                5,
+                "oldies"
+            ],
+            [
+                5,
+                "symphonic rock"
+            ],
+            [
+                5,
+                "prog rock"
+            ],
+            [
+                4,
+                "favorites"
+            ],
+            [
+                4,
+                "trevor horn"
             ]
         ]
     ],
