@@ -3,49 +3,42 @@
         "Like That",
         "Fox Stevenson",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        26,
+        23,
         []
     ],
     [
         "You Need It",
         "Haskell",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        20,
+        21,
         []
     ],
     [
         "Papa Loves Mambo",
         "Perry Como",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        16,
+        17,
         []
     ],
     [
         "Homies (feat. Henry Wu)",
         "Fred again..",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        14,
+        15,
         []
     ],
     [
         "It's a Good Day",
         "Perry Como",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        13,
-        []
-    ],
-    [
-        "My Funny Valentine",
-        "Perry Como",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        12,
+        14,
         []
     ],
     [
         "The Color Violet",
         "Tory Lanez",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        12,
+        13,
         [
             [
                 100,
@@ -70,17 +63,31 @@
         ]
     ],
     [
+        "My Funny Valentine",
+        "Perry Como",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        12,
+        []
+    ],
+    [
         "Gotta Let You Go",
         "Felix Leiter",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        11,
+        10,
+        []
+    ],
+    [
+        "Would I Lie to You",
+        "John Gibbons",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        10,
         []
     ],
     [
         "Dissolved Girl",
         "Massive Attack",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        9,
+        10,
         [
             [
                 100,
@@ -108,14 +115,58 @@
         "Opposite of Adults",
         "Chiddy Bang",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        8,
+        9,
         []
     ],
     [
-        "Would I Lie to You",
-        "John Gibbons",
+        "Hard Times",
+        "Paramore",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        8,
+        9,
+        [
+            [
+                100,
+                "new wave"
+            ],
+            [
+                90,
+                "pop rock"
+            ],
+            [
+                53,
+                "pop"
+            ],
+            [
+                21,
+                "synthpop"
+            ],
+            [
+                8,
+                "indie"
+            ],
+            [
+                6,
+                "alternative"
+            ]
+        ]
+    ],
+    [
+        "Human",
+        "Rag'n'Bone Man",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        9,
+        [
+            [
+                100,
+                "soul"
+            ]
+        ]
+    ],
+    [
+        "Ballad of a Badman",
+        "Tory Lanez",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        9,
         []
     ],
     [
@@ -155,18 +206,6 @@
         ]
     ],
     [
-        "Human",
-        "Rag'n'Bone Man",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        8,
-        [
-            [
-                100,
-                "soul"
-            ]
-        ]
-    ],
-    [
         "WTF",
         "Script",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -174,10 +213,10 @@
         []
     ],
     [
-        "Ballad of a Badman",
-        "Tory Lanez",
+        "Ni**as In Paris",
+        "Jaÿ-Z",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        8,
+        7,
         []
     ],
     [
@@ -209,36 +248,11 @@
         ]
     ],
     [
-        "Hard Times",
-        "Paramore",
+        "And 1",
+        "Melé",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         7,
-        [
-            [
-                100,
-                "new wave"
-            ],
-            [
-                90,
-                "pop rock"
-            ],
-            [
-                53,
-                "pop"
-            ],
-            [
-                21,
-                "synthpop"
-            ],
-            [
-                8,
-                "indie"
-            ],
-            [
-                6,
-                "alternative"
-            ]
-        ]
+        []
     ],
     [
         "Stateside + Zara Larsson",
@@ -273,6 +287,83 @@
         ]
     ],
     [
+        "Last Kiss of Nebulon",
+        "Tory Lanez",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        7,
+        []
+    ],
+    [
+        "Somebody To Love (Salt Shaker Remix) - Radio Edit",
+        "Boogie Pimps",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        6,
+        []
+    ],
+    [
+        "The Mother We Share",
+        "CHVRCHES",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        6,
+        []
+    ],
+    [
+        "Wavey (feat. Wiley, Alika & Double S) - VIP Mix",
+        "Cliq",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        6,
+        []
+    ],
+    [
+        "Cloudbusting",
+        "Just Us",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        6,
+        []
+    ],
+    [
+        "Romeo",
+        "PinkPantheress",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        6,
+        [
+            [
+                44,
+                "electropop"
+            ],
+            [
+                29,
+                "rnb"
+            ],
+            [
+                29,
+                "dance-pop"
+            ],
+            [
+                4,
+                "electronic"
+            ],
+            [
+                4,
+                "pop"
+            ]
+        ]
+    ],
+    [
+        "Firefly",
+        "Submatik",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        6,
+        []
+    ],
+    [
+        "Poison Ivy",
+        "Tory Lanez",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        6,
+        []
+    ],
+    [
         "Treading Water",
         "Alex Clare",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -280,43 +371,50 @@
         []
     ],
     [
-        "The Mother We Share",
-        "CHVRCHES",
+        "4 Walls - inst",
+        "f(x)",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         5,
         []
     ],
     [
-        "Ni**as In Paris",
-        "Jaÿ-Z",
+        "909",
+        "Riordan",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         5,
         []
     ],
     [
-        "Cloudbusting",
-        "Just Us",
+        "Far Away (feat. A$AP Rocky)",
+        "Yebba",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         5,
-        []
+        [
+            [
+                100,
+                "rap"
+            ],
+            [
+                100,
+                "pop"
+            ],
+            [
+                66,
+                "hip hop"
+            ],
+            [
+                66,
+                "chill"
+            ],
+            [
+                33,
+                "my spotify"
+            ]
+        ]
     ],
     [
-        "And 1",
-        "Melé",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        5,
-        []
-    ],
-    [
-        "Last Kiss of Nebulon",
-        "Tory Lanez",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        5,
-        []
-    ],
-    [
-        "Wavey (feat. Wiley, Alika & Double S) - VIP Mix",
-        "Cliq",
+        "Into My Life (feat. Joyce Sims)",
+        "Cam Stockman",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         4,
         []
@@ -393,55 +491,6 @@
         ]
     ],
     [
-        "Bang Bang Bang (Feat. MNDR)",
-        "Mark Ronson",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        4,
-        []
-    ],
-    [
-        "Romeo",
-        "PinkPantheress",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        4,
-        [
-            [
-                44,
-                "electropop"
-            ],
-            [
-                29,
-                "rnb"
-            ],
-            [
-                29,
-                "dance-pop"
-            ],
-            [
-                4,
-                "electronic"
-            ],
-            [
-                4,
-                "pop"
-            ]
-        ]
-    ],
-    [
-        "909",
-        "Riordan",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        4,
-        []
-    ],
-    [
-        "Firefly",
-        "Submatik",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        4,
-        []
-    ],
-    [
         "Lady of Namek",
         "Tory Lanez",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -449,30 +498,30 @@
         []
     ],
     [
-        "Far Away (feat. A$AP Rocky)",
-        "Yebba",
+        "Clarity",
+        "Zedd",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         4,
         [
             [
                 100,
-                "rap"
+                "electronic"
             ],
             [
-                100,
+                71,
+                "house"
+            ],
+            [
+                35,
                 "pop"
             ],
             [
-                66,
-                "hip hop"
+                31,
+                "dance"
             ],
             [
-                66,
-                "chill"
-            ],
-            [
-                33,
-                "my spotify"
+                13,
+                "electro house"
             ]
         ]
     ],
@@ -518,13 +567,6 @@
                 "french"
             ]
         ]
-    ],
-    [
-        "4 Walls - inst",
-        "f(x)",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        3,
-        []
     ],
     [
         "Places to Be",
@@ -597,11 +639,57 @@
         []
     ],
     [
+        "Love at First Sight",
+        "Kylie Minogue",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        3,
+        []
+    ],
+    [
+        "Bang Bang Bang (Feat. MNDR)",
+        "Mark Ronson",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        3,
+        []
+    ],
+    [
         "Moxy Edits 014 (Darius Syrossian)",
         "Moxy Edits",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         3,
         []
+    ],
+    [
+        "Ride Wit Me",
+        "Nelly",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        3,
+        [
+            [
+                100,
+                "hip hop"
+            ],
+            [
+                93,
+                "rap"
+            ],
+            [
+                53,
+                "nelly"
+            ],
+            [
+                50,
+                "hip-hop"
+            ],
+            [
+                17,
+                "rnb"
+            ],
+            [
+                6,
+                "pop"
+            ]
+        ]
     ],
     [
         "Freedom",
@@ -633,6 +721,13 @@
                 "funk"
             ]
         ]
+    ],
+    [
+        "Luv 4 Luv - Stonebridge Club Mix",
+        "Robin S",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        3,
+        []
     ],
     [
         "Shutdown",
@@ -676,20 +771,6 @@
                 "eurodance"
             ]
         ]
-    ],
-    [
-        "Poison Ivy",
-        "Tory Lanez",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        3,
-        []
-    ],
-    [
-        "Final Fantasy - Original Mix",
-        "AC Slater",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        2,
-        []
     ],
     [
         "Someone Like You",
@@ -774,6 +855,34 @@
         ]
     ],
     [
+        "Pompeii",
+        "Bastille",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        2,
+        [
+            [
+                100,
+                "indie"
+            ],
+            [
+                79,
+                "pop"
+            ],
+            [
+                45,
+                "british"
+            ],
+            [
+                43,
+                "alternative"
+            ],
+            [
+                8,
+                "indie pop"
+            ]
+        ]
+    ],
+    [
         "Hot Dog, Buddy, Buddy",
         "Bill Haley & His Comets",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -824,13 +933,6 @@
                 "john newman"
             ]
         ]
-    ],
-    [
-        "Into My Life (feat. Joyce Sims)",
-        "Cam Stockman",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        2,
-        []
     ],
     [
         "Gotta Get Thru this - D'n'D Radio Edit",
@@ -886,6 +988,13 @@
         []
     ],
     [
+        "Stereo Love - Extended Version",
+        "Edward Maya",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        2,
+        []
+    ],
+    [
         "679 (Feat. Remy Boyz)",
         "Fetty Wap",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -902,6 +1011,42 @@
             [
                 8,
                 "hip hop"
+            ]
+        ]
+    ],
+    [
+        "Pumped Up Kicks",
+        "Foster the People",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        2,
+        [
+            [
+                100,
+                "indie"
+            ],
+            [
+                72,
+                "indie pop"
+            ],
+            [
+                26,
+                "catchy"
+            ],
+            [
+                26,
+                "summer"
+            ],
+            [
+                12,
+                "happy"
+            ],
+            [
+                6,
+                "alternative"
+            ],
+            [
+                6,
+                "pop"
             ]
         ]
     ],
@@ -981,20 +1126,6 @@
         []
     ],
     [
-        "64 Impala",
-        "Henry Fong",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        2,
-        []
-    ],
-    [
-        "Move It",
-        "Jaded",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        2,
-        []
-    ],
-    [
         "Lightning Bolt",
         "Jake Bugg",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -1002,11 +1133,32 @@
         []
     ],
     [
-        "Grow",
-        "Josie Man",
+        "Love Me Again",
+        "John Newman",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         2,
-        []
+        [
+            [
+                100,
+                "pop"
+            ],
+            [
+                55,
+                "soul"
+            ],
+            [
+                15,
+                "love"
+            ],
+            [
+                8,
+                "summer"
+            ],
+            [
+                6,
+                "british"
+            ]
+        ]
     ],
     [
         "Stayin Alive x In Da Club - Mashup",
@@ -1014,6 +1166,34 @@
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         2,
         []
+    ],
+    [
+        "We Can't Stop",
+        "Miley Cyrus",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        2,
+        [
+            [
+                100,
+                "pop"
+            ],
+            [
+                52,
+                "dance"
+            ],
+            [
+                33,
+                "party"
+            ],
+            [
+                26,
+                "miley cyrus"
+            ],
+            [
+                7,
+                "queen"
+            ]
+        ]
     ],
     [
         "Just The Way You Are",
@@ -1047,8 +1227,8 @@
         []
     ],
     [
-        "Heartbeat - Chase & Status We Just Bought a Guitar Mix",
-        "Nneka",
+        "Dove (I'll Be Loving You) - Club Mix",
+        "Moony",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         2,
         []
@@ -1239,6 +1419,34 @@
         []
     ],
     [
+        "All Star",
+        "Smash Mouth",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        2,
+        [
+            [
+                100,
+                "rock"
+            ],
+            [
+                49,
+                "pop"
+            ],
+            [
+                49,
+                "alternative"
+            ],
+            [
+                23,
+                "soundtrack"
+            ],
+            [
+                10,
+                "shrek"
+            ]
+        ]
+    ],
+    [
         "12 to 12",
         "sombr",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -1289,11 +1497,56 @@
         []
     ],
     [
-        "The Funk",
-        "Tieks",
+        "Rock the Casbah - remastered",
+        "The Clash",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         2,
-        []
+        [
+            [
+                100,
+                "new wave"
+            ],
+            [
+                51,
+                "rock"
+            ],
+            [
+                34,
+                "dance-punk"
+            ],
+            [
+                12,
+                "punk"
+            ]
+        ]
+    ],
+    [
+        "Somebody Told Me",
+        "The Killers",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        2,
+        [
+            [
+                100,
+                "rock"
+            ],
+            [
+                92,
+                "indie rock"
+            ],
+            [
+                54,
+                "indie"
+            ],
+            [
+                52,
+                "alternative"
+            ],
+            [
+                16,
+                "the killers"
+            ]
+        ]
     ],
     [
         "Cool Girl",
@@ -1303,6 +1556,34 @@
         []
     ],
     [
+        "Heathens",
+        "Twenty One Pilots",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        2,
+        [
+            [
+                100,
+                "alternative"
+            ],
+            [
+                35,
+                "rock"
+            ],
+            [
+                23,
+                "electronic"
+            ],
+            [
+                17,
+                "pop"
+            ],
+            [
+                4,
+                "indie"
+            ]
+        ]
+    ],
+    [
         "summer on the inside",
         "warner case",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -1310,8 +1591,8 @@
         []
     ],
     [
-        "Paranoid (feat. Izzy Bizu)",
-        "welshy",
+        "You're Sunshine",
+        "Weiss",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         2,
         []
@@ -1319,6 +1600,13 @@
     [
         "Talk",
         "5 After Midnight",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        []
+    ],
+    [
+        "Final Fantasy - Original Mix",
+        "AC Slater",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
@@ -1458,13 +1746,6 @@
         []
     ],
     [
-        "Vertigo",
-        "ANOTR",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
         "Body Groove - Mix Mc Version",
         "Architechs",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -1511,54 +1792,11 @@
         []
     ],
     [
-        "Human Touch",
-        "Armin van Buuren",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
         "Re-Rewind (The Crowd Say Bo Selecta) (feat. Craig David) - Radio Edit",
         "Artful Dodger",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
-    ],
-    [
-        "In Your Fantasy",
-        "ATEEZ",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "kpop"
-            ],
-            [
-                25,
-                "english"
-            ],
-            [
-                16,
-                "sex"
-            ],
-            [
-                16,
-                "k-pop"
-            ],
-            [
-                8,
-                "pregnancy fuel"
-            ],
-            [
-                8,
-                "electropoo"
-            ],
-            [
-                8,
-                "korean"
-            ]
-        ]
     ],
     [
         "Rainbow",
@@ -1568,18 +1806,40 @@
         []
     ],
     [
-        "Lady - feat. Pitbull",
-        "Austin Mahone",
+        "I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit",
+        "Avicii",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
-        []
-    ],
-    [
-        "Maharajah",
-        "Ava Low",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
+        [
+            [
+                100,
+                "house"
+            ],
+            [
+                100,
+                "electronic"
+            ],
+            [
+                66,
+                "avicii"
+            ],
+            [
+                17,
+                "dance"
+            ],
+            [
+                8,
+                "aviciiforever"
+            ],
+            [
+                8,
+                "electro house"
+            ],
+            [
+                8,
+                "nicky romero"
+            ]
+        ]
     ],
     [
         "Girlfriend",
@@ -1706,34 +1966,6 @@
         []
     ],
     [
-        "Pompeii",
-        "Bastille",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "indie"
-            ],
-            [
-                79,
-                "pop"
-            ],
-            [
-                45,
-                "british"
-            ],
-            [
-                43,
-                "alternative"
-            ],
-            [
-                8,
-                "indie pop"
-            ]
-        ]
-    ],
-    [
         "Conceited - What The Fuck",
         "Beaumont",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -1743,13 +1975,6 @@
     [
         "Want You (Need You) - Adam Port Remix",
         "Bell Towers",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
-        "Somebody To Love",
-        "Ben Kim",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
@@ -1889,57 +2114,6 @@
         []
     ],
     [
-        "Sugar/Tzu",
-        "black midi",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
-        "Paranoid - 2009 Remaster",
-        "Black Sabbath",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "classic rock"
-            ],
-            [
-                100,
-                "metal"
-            ],
-            [
-                66,
-                "heavy metal"
-            ],
-            [
-                66,
-                "hard rock"
-            ],
-            [
-                33,
-                "black sabbath"
-            ],
-            [
-                33,
-                "metallica"
-            ],
-            [
-                33,
-                "megadeth"
-            ],
-            [
-                10,
-                "slipknot"
-            ],
-            [
-                10,
-                "classic tracks"
-            ]
-        ]
-    ],
-    [
         "All Cried Out (feat. Alex Newell) - Radio Edit",
         "Blonde",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -1968,39 +2142,32 @@
         []
     ],
     [
-        "Livin' on a Prayer",
-        "Bon Jovi",
+        "Toxic",
+        "Britney Spears",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         [
             [
                 100,
-                "rock"
+                "pop"
             ],
             [
-                38,
-                "classic rock"
+                60,
+                "dance"
             ],
             [
-                36,
-                "hard rock"
+                30,
+                "britney spears"
             ],
             [
-                15,
-                "bon jovi"
+                12,
+                "sexy"
             ],
             [
-                4,
-                "hair metal"
+                5,
+                "toxic"
             ]
         ]
-    ],
-    [
-        "Wormhole",
-        "Bone Box",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
     ],
     [
         "The Dassy Slide",
@@ -2266,6 +2433,42 @@
         []
     ],
     [
+        "On & On",
+        "Cartoon",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        [
+            [
+                100,
+                "house"
+            ],
+            [
+                100,
+                "electronic"
+            ],
+            [
+                66,
+                "dance"
+            ],
+            [
+                66,
+                "tropical house"
+            ],
+            [
+                33,
+                "moombahton"
+            ],
+            [
+                8,
+                "dancehall"
+            ],
+            [
+                8,
+                "electropop"
+            ]
+        ]
+    ],
+    [
         "Fate",
         "Chaka Khan",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -2386,21 +2589,7 @@
         []
     ],
     [
-        "BREAK IT DOWN (ON THE BASSLINE)",
-        "Confidence Man",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
         "I CAN’T LOSE YOU",
-        "Confidence Man",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
-        "REAL MOVE TOUCH",
         "Confidence Man",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
@@ -2557,6 +2746,42 @@
         ]
     ],
     [
+        "Without You (feat. Usher)",
+        "David Guetta",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        [
+            [
+                100,
+                "dance"
+            ],
+            [
+                88,
+                "pop"
+            ],
+            [
+                50,
+                "david guetta"
+            ],
+            [
+                48,
+                "eletronic"
+            ],
+            [
+                21,
+                "usher"
+            ],
+            [
+                10,
+                "male vocalists"
+            ],
+            [
+                4,
+                "house"
+            ]
+        ]
+    ],
+    [
         "House Every Weekend - Radio Edit",
         "David Zowie",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -2619,6 +2844,13 @@
     [
         "Latch (feat. Sam Smith)",
         "Disclosure",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        []
+    ],
+    [
+        "I Touch Myself",
+        "Divinyls",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
@@ -2695,13 +2927,6 @@
         ]
     ],
     [
-        "Miracle Maker",
-        "Dom Dolla",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
         "Ripgroove - Double 99 vs 10 Below Remix",
         "Double 99",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -2718,13 +2943,6 @@
     [
         "Always",
         "Douglas Gamley",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
-        "Bricks",
-        "Dr. Fresch",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
@@ -2871,29 +3089,8 @@
         []
     ],
     [
-        "Empire State Of Mind (Part II) Broken Down (From Sex & The City 2) [Decimal Eon Mix]",
-        "Electric Dust",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
-        "Burnt Orange - Edit",
-        "Elkka",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
         "Uranium Fever",
         "Elton Britt",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
-        "Pump It Up",
-        "Elvis Costello & The Attractions",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
@@ -3062,13 +3259,6 @@
         []
     ],
     [
-        "girl",
-        "Fennec",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
         "Draggin' The River",
         "Ferlin Husky",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -3111,6 +3301,46 @@
         []
     ],
     [
+        "Don't Stop - 2004 Remaster",
+        "Fleetwood Mac",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        [
+            [
+                100,
+                "power pop"
+            ],
+            [
+                100,
+                "classic rock"
+            ],
+            [
+                66,
+                "fleetwood mac"
+            ],
+            [
+                66,
+                "pop rock"
+            ],
+            [
+                33,
+                "glam rock"
+            ],
+            [
+                33,
+                "sunshine pop"
+            ],
+            [
+                33,
+                "piano rock"
+            ],
+            [
+                10,
+                "boogie rock"
+            ]
+        ]
+    ],
+    [
         "Landslide",
         "Fleetwood Mac",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -3139,6 +3369,42 @@
         ]
     ],
     [
+        "Little Lies - 2017 Remaster",
+        "Fleetwood Mac",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        [
+            [
+                100,
+                "rock"
+            ],
+            [
+                66,
+                "pop"
+            ],
+            [
+                66,
+                "soft rock"
+            ],
+            [
+                33,
+                "spoken"
+            ],
+            [
+                33,
+                "pop rock"
+            ],
+            [
+                33,
+                "instrumental"
+            ],
+            [
+                10,
+                "moderate"
+            ]
+        ]
+    ],
+    [
         "Club Can't Handle Me (feat. David Guetta)",
         "Flo Rida",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -3163,8 +3429,40 @@
         ]
     ],
     [
-        "Spectrum (Say My Name) (Calvin Harris Remix)",
-        "Florence + the Machine",
+        "Good Feeling",
+        "Flo Rida",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        [
+            [
+                100,
+                "party"
+            ],
+            [
+                90,
+                "hip-hop"
+            ],
+            [
+                52,
+                "electronic"
+            ],
+            [
+                18,
+                "dance"
+            ],
+            [
+                11,
+                "pop"
+            ],
+            [
+                9,
+                "flo rida"
+            ]
+        ]
+    ],
+    [
+        "I Don't Like It, I Love It (feat. Robin Thicke & Verdine White)",
+        "Flo Rida",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
@@ -3198,42 +3496,6 @@
             [
                 21,
                 "art rock"
-            ]
-        ]
-    ],
-    [
-        "Pumped Up Kicks",
-        "Foster the People",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "indie"
-            ],
-            [
-                72,
-                "indie pop"
-            ],
-            [
-                26,
-                "catchy"
-            ],
-            [
-                26,
-                "summer"
-            ],
-            [
-                12,
-                "happy"
-            ],
-            [
-                6,
-                "alternative"
-            ],
-            [
-                6,
-                "pop"
             ]
         ]
     ],
@@ -3323,8 +3585,8 @@
         []
     ],
     [
-        "WTF is House",
-        "G Zoom",
+        "Sun Is Shining - De Luxe Edit",
+        "Funkstar De Luxe",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
@@ -3332,13 +3594,6 @@
     [
         "So Many Times - Extended Mix",
         "Gadjo",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
-        "Cars",
-        "Gary Numan",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
@@ -3372,15 +3627,15 @@
         []
     ],
     [
-        "You Make My Dreams (Come True)",
-        "Hall & Oates",
+        "Superstylin'",
+        "Groove Armada",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
     ],
     [
-        "Pretty Little Raver",
-        "Higgo",
+        "You Make My Dreams (Come True)",
+        "Hall & Oates",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
@@ -3534,22 +3789,8 @@
         []
     ],
     [
-        "Higher Than You",
-        "J. Worra",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
-        "mynamesjoseph.",
-        "jaij.",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
-        "Big Data",
-        "Jam2go",
+        "Move It",
+        "Jaded",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
@@ -3560,42 +3801,6 @@
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
-    ],
-    [
-        "Little L",
-        "Jamiroquai",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "funk"
-            ],
-            [
-                66,
-                "dance"
-            ],
-            [
-                42,
-                "acid jazz"
-            ],
-            [
-                30,
-                "disco"
-            ],
-            [
-                10,
-                "electronic"
-            ],
-            [
-                5,
-                "jamiroquai"
-            ],
-            [
-                5,
-                "funky"
-            ]
-        ]
     ],
     [
         "Talk Dirty (feat. 2 Chainz)",
@@ -3713,43 +3918,8 @@
         ]
     ],
     [
-        "Love Me Again",
-        "John Newman",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "pop"
-            ],
-            [
-                55,
-                "soul"
-            ],
-            [
-                15,
-                "love"
-            ],
-            [
-                8,
-                "summer"
-            ],
-            [
-                6,
-                "british"
-            ]
-        ]
-    ],
-    [
         "Luther Played the Boogie",
         "Johnny Cash",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
-        "I NEED YOU",
-        "Jon Batiste",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
@@ -3771,20 +3941,6 @@
     [
         "Back it up",
         "Josh Baker",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
-        "Mercy",
-        "Joshwa",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
-        "JOY (Easy To Improve)",
-        "Joy Anonymous",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
@@ -4125,22 +4281,8 @@
         []
     ],
     [
-        "Hello - I Just Came to Say Hello",
-        "Lady Aqua",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
         "Tweedle Dee",
         "LaVern Baker",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
-        "Love Story - Radio Edit",
-        "Layo",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
@@ -4347,13 +4489,6 @@
         ]
     ],
     [
-        "Can’t Let You Go",
-        "LP Giobbi",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
         "Incredible",
         "M-Beat",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -4539,13 +4674,6 @@
         []
     ],
     [
-        "Pump Up The Jam (with MOTi)",
-        "Mary N'diaye",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
         "Break My Stride",
         "Matthew Wilder",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -4575,13 +4703,6 @@
     [
         "Piece of Your Heart",
         "Meduza",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
-        "Talkin' Drums",
-        "Melé",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
@@ -4628,42 +4749,6 @@
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
-    ],
-    [
-        "Time to Pretend",
-        "MGMT",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "indie"
-            ],
-            [
-                87,
-                "electronic"
-            ],
-            [
-                37,
-                "alternative"
-            ],
-            [
-                23,
-                "indietronica"
-            ],
-            [
-                9,
-                "electronica"
-            ],
-            [
-                8,
-                "poptron"
-            ],
-            [
-                8,
-                "psychedelic"
-            ]
-        ]
     ],
     [
         "Different Side",
@@ -4718,6 +4803,13 @@
     [
         "Mother's Daughter",
         "Miley Cyrus",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        []
+    ],
+    [
+        "Believe - Ministers Vocal Mix",
+        "Ministers De La Funk",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
@@ -4856,15 +4948,8 @@
         []
     ],
     [
-        "Succession (Main Title Theme)",
-        "Nicholas Britell",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
-        "The Drummer",
-        "Niki & the Dove",
+        "Heartbeat - Chase & Status We Just Bought a Guitar Mix",
+        "Nneka",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
@@ -4877,22 +4962,15 @@
         []
     ],
     [
-        "Turn up the Radio",
-        "OK Go",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
-        "Upside Down & Inside Out",
-        "OK Go",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
         "Gecko (Overdrive) - Radio Edit",
         "Oliver Heldens",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        []
+    ],
+    [
+        "King",
+        "Olly Alexander (Years & Years)",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
@@ -4914,11 +4992,36 @@
         ]
     ],
     [
-        "Who's Your Love?",
-        "Orang Utan",
+        "Counting Stars",
+        "OneRepublic",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
-        []
+        [
+            [
+                100,
+                "pop rock"
+            ],
+            [
+                85,
+                "rock"
+            ],
+            [
+                52,
+                "pop"
+            ],
+            [
+                10,
+                "kick"
+            ],
+            [
+                7,
+                "alternative"
+            ],
+            [
+                7,
+                "melancholic"
+            ]
+        ]
     ],
     [
         "Fireflies",
@@ -4951,13 +5054,6 @@
                 "cute"
             ]
         ]
-    ],
-    [
-        "ADRENALINE",
-        "Panko!",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
     ],
     [
         "Let Her Go",
@@ -5360,6 +5456,70 @@
         []
     ],
     [
+        "Give Me Everything (feat. Nayer)",
+        "Pitbull",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        [
+            [
+                100,
+                "afrojack"
+            ],
+            [
+                100,
+                "ne-yo"
+            ],
+            [
+                16,
+                "hip hop"
+            ],
+            [
+                16,
+                "rap"
+            ],
+            [
+                8,
+                "dance"
+            ],
+            [
+                8,
+                "pitbull"
+            ],
+            [
+                8,
+                "hip-hop"
+            ]
+        ]
+    ],
+    [
+        "Time of Our Lives",
+        "Pitbull",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        [
+            [
+                100,
+                "pop"
+            ],
+            [
+                69,
+                "party"
+            ],
+            [
+                46,
+                "ne-yo"
+            ],
+            [
+                15,
+                "pitbull"
+            ],
+            [
+                4,
+                "house"
+            ]
+        ]
+    ],
+    [
         "All About Tonight",
         "Pixie Lott",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -5400,6 +5560,13 @@
                 "post malone"
             ]
         ]
+    ],
+    [
+        "Turn Me Out (Turn to Sugar) (feat. Kathy Brown)",
+        "Praxis",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        []
     ],
     [
         "Black Beatles",
@@ -5535,13 +5702,6 @@
         []
     ],
     [
-        "Bring Me Down",
-        "Riordan",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
         "Rinse & Repeat",
         "Riton",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -5615,13 +5775,6 @@
         ]
     ],
     [
-        "I-69",
-        "Roman GianArthur",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
         "Eple",
         "Röyksopp",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -5643,27 +5796,8 @@
         []
     ],
     [
-        "On My Knees",
-        "RÜFÜS DU SOL",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "australian"
-            ]
-        ]
-    ],
-    [
         "Twist My Mind",
         "Ryan James",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
-        "Tick Tick Boom (feat. BygTwo3)",
-        "Sage the Gemini",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
@@ -5697,11 +5831,24 @@
         []
     ],
     [
-        "Money on My Mind",
+        "I'm Not the Only One",
         "Sam Smith",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
-        []
+        [
+            [
+                100,
+                "soul"
+            ],
+            [
+                88,
+                "pop"
+            ],
+            [
+                17,
+                "melancholy"
+            ]
+        ]
     ],
     [
         "Black & Gold - Radio Edit",
@@ -5713,13 +5860,6 @@
     [
         "Cops & Robbers",
         "Sammy Virji",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
-        "You Used To Hold Me - Original Mix",
-        "Scott & Leon",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
@@ -5800,6 +5940,34 @@
         ]
     ],
     [
+        "Hips Don't Lie (feat. Wyclef Jean)",
+        "Shakira",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        [
+            [
+                100,
+                "pop"
+            ],
+            [
+                76,
+                "latin"
+            ],
+            [
+                31,
+                "dance"
+            ],
+            [
+                19,
+                "reggaeton"
+            ],
+            [
+                7,
+                "shakira"
+            ]
+        ]
+    ],
+    [
         "Stitches",
         "Shawn Mendes",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -5830,22 +5998,8 @@
         []
     ],
     [
-        "El Marinero (Cueca)",
-        "Silvia Infantas",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
         "Sunrise",
         "Simply Red",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
-        "What You Waiting for?",
-        "Sinner & James",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
@@ -5865,36 +6019,15 @@
         []
     ],
     [
-        "All Star",
-        "Smash Mouth",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "rock"
-            ],
-            [
-                49,
-                "pop"
-            ],
-            [
-                49,
-                "alternative"
-            ],
-            [
-                23,
-                "soundtrack"
-            ],
-            [
-                10,
-                "shrek"
-            ]
-        ]
-    ],
-    [
         "VIP Business",
         "Solardo",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        []
+    ],
+    [
+        "It Feels So Good",
+        "Sonique",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
@@ -5928,21 +6061,7 @@
         ]
     ],
     [
-        "Light Me Up",
-        "Stace Cadet",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
-        "Party All Night",
-        "Star.One",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
-        "I'm Alive - 2019 Remaster",
+        "I'm Alive",
         "Stretch & Vern",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
@@ -6061,6 +6180,34 @@
             [
                 8,
                 "hip-hop"
+            ]
+        ]
+    ],
+    [
+        "Dynamite",
+        "Taio Cruz",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        [
+            [
+                100,
+                "dance"
+            ],
+            [
+                89,
+                "pop"
+            ],
+            [
+                26,
+                "dynamite"
+            ],
+            [
+                11,
+                "taio cruz"
+            ],
+            [
+                8,
+                "rnb"
             ]
         ]
     ],
@@ -6262,6 +6409,30 @@
         []
     ],
     [
+        "Video Killed the Radio Star",
+        "The Buggles",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        [
+            [
+                61,
+                "new wave"
+            ],
+            [
+                38,
+                "pop"
+            ],
+            [
+                16,
+                "electronic"
+            ],
+            [
+                6,
+                "synthpop"
+            ]
+        ]
+    ],
+    [
         "Closer",
         "The Chainsmokers",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -6288,13 +6459,6 @@
                 "alt-pop"
             ]
         ]
-    ],
-    [
-        "Little Games - St. Lucia Remix",
-        "The Colourist",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
     ],
     [
         "Walk Away 1989",
@@ -6378,41 +6542,6 @@
         ]
     ],
     [
-        "Somebody Told Me",
-        "The Killers",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "rock"
-            ],
-            [
-                92,
-                "indie rock"
-            ],
-            [
-                54,
-                "indie"
-            ],
-            [
-                52,
-                "alternative"
-            ],
-            [
-                16,
-                "the killers"
-            ]
-        ]
-    ],
-    [
-        "Cheap and Cheerful",
-        "The Kills",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
         "You Always Hurt The One You Love",
         "The Mills Brothers",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -6452,13 +6581,6 @@
         ]
     ],
     [
-        "Omen",
-        "The Prodigy",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
         "Legend",
         "The Score",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -6473,25 +6595,50 @@
         []
     ],
     [
-        "Brand New Funk",
-        "The Sponges",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
-        "Fools Gold",
-        "The Stone Roses",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
         "All Time Low",
         "The Wanted",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
+    ],
+    [
+        "Chasing the Sun",
+        "The Wanted",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        []
+    ],
+    [
+        "Glad You Came",
+        "The Wanted",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        [
+            [
+                100,
+                "pop"
+            ],
+            [
+                64,
+                "dance"
+            ],
+            [
+                23,
+                "summer"
+            ],
+            [
+                10,
+                "british"
+            ],
+            [
+                9,
+                "catchy"
+            ],
+            [
+                8,
+                "male vocalists"
+            ]
+        ]
     ],
     [
         "Starboy",
@@ -6553,6 +6700,13 @@
         []
     ],
     [
+        "Put 'Em High",
+        "Therese",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        []
+    ],
+    [
         "It Just Won't Do",
         "Tim Deluxe",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -6569,6 +6723,13 @@
     [
         "Pass Out",
         "Tinie Tempah",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        []
+    ],
+    [
+        "It's Not Unusual",
+        "Tom Jones",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
@@ -6672,34 +6833,6 @@
             [
                 5,
                 "diva house"
-            ]
-        ]
-    ],
-    [
-        "Heathens",
-        "Twenty One Pilots",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        [
-            [
-                100,
-                "alternative"
-            ],
-            [
-                35,
-                "rock"
-            ],
-            [
-                23,
-                "electronic"
-            ],
-            [
-                17,
-                "pop"
-            ],
-            [
-                4,
-                "indie"
             ]
         ]
     ],
@@ -6847,13 +6980,6 @@
         ]
     ],
     [
-        "Everybody Wants You",
-        "Walking Def",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
         "Low Rider",
         "War",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -6875,21 +7001,7 @@
         []
     ],
     [
-        "Threat (GOOD Remix)",
-        "WEARETHEGOOD",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
         "Feel My Needs - Gorgon City Remix",
-        "Weiss",
-        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        1,
-        []
-    ],
-    [
-        "You're Sunshine",
         "Weiss",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
@@ -6941,6 +7053,13 @@
         []
     ],
     [
+        "Wearing My Rolex - Radio Edit",
+        "Wiley",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        []
+    ],
+    [
         "Scream & Shout",
         "will.i.am",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -6967,6 +7086,13 @@
     [
         "Go Getter - Reflex Blue Remix",
         "Wodda",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        []
+    ],
+    [
+        "Lazy (feat. David Byrne)",
+        "X-Press 2",
         "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         1,
         []
@@ -7020,6 +7146,13 @@
                 "korean"
             ]
         ]
+    ],
+    [
+        "I Want You to Know",
+        "Zedd",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        1,
+        []
     ],
     [
         "Stay",
